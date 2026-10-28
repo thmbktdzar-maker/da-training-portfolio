@@ -1,2 +1,3 @@
-# da-training-portfolio
-Data analytics training projects and assignments
+# assignment 01
+this folder contains my Part A work
+add part A summary
