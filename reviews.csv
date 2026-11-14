@@ -1,0 +1,1562 @@
+review_id,order_id,review_date,rating,comment
+1,50005,2025-01-07,5,"Great decoration, exactly as pictured."
+2,50008,2025-01-06,2,Wrong flavour delivered.
+3,50013,2025-01-07,4,"Easy ordering, friendly driver."
+4,50019,2025-01-12,5,Perfect for the party.
+5,50020,2025-01-10,2,Cake came late and the box was crushed.
+6,50022,2025-01-09,2,Wrong flavour delivered.
+7,50027,2025-01-07,5,Perfect for the party.
+8,50028,2025-01-08,5,Kids loved the cupcakes.
+9,50030,2025-01-07,2,"Arrived two hours late, party had started."
+10,50034,2025-01-11,5,"Great decoration, exactly as pictured."
+11,50037,2025-01-11,5,Kids loved the cupcakes.
+12,50045,2025-01-11,5,"Beautiful cake, everyone loved it."
+13,50046,2025-01-13,3,"Fine, nothing special."
+14,50048,2025-01-14,5,"Great decoration, exactly as pictured."
+15,50049,2025-01-16,4,"Great decoration, exactly as pictured."
+16,50053,2025-01-12,4,Best cheesecake in town.
+17,50061,2025-01-15,5,"Moist, not too sweet. Will order again."
+18,50067,2025-01-17,2,Wrong flavour delivered.
+19,50074,2025-01-16,5,"Easy ordering, friendly driver."
+20,50075,2025-01-15,4,"Beautiful cake, everyone loved it."
+21,50077,2025-01-20,4,Delicious and arrived on time!
+22,50082,2025-01-16,4,Perfect for the party.
+23,50084,2025-01-17,5,"Great decoration, exactly as pictured."
+24,50086,2025-01-18,5,Perfect for the party.
+25,50087,2025-01-21,2,Decoration did not match the photo.
+26,50095,2025-01-19,4,"Moist, not too sweet. Will order again."
+27,50097,2025-01-18,3,Tasty but a bit small for the price.
+28,50099,2025-01-21,4,"Easy ordering, friendly driver."
+29,50101,2025-01-23,5,Best cheesecake in town.
+30,50106,2025-01-19,4,"Moist, not too sweet. Will order again."
+31,50108,2025-01-21,5,"Moist, not too sweet. Will order again."
+32,50111,2025-01-24,3,"Good cake, packaging could be better."
+33,50114,2025-01-21,5,"Great decoration, exactly as pictured."
+34,50116,2025-01-25,4,Kids loved the cupcakes.
+35,50119,2025-01-22,5,Delicious and arrived on time!
+36,50121,2025-01-25,2,Wrong flavour delivered.
+37,50122,2025-01-26,5,"Beautiful cake, everyone loved it."
+38,50126,2025-01-26,4,"Easy ordering, friendly driver."
+39,50128,2025-01-28,5,"Moist, not too sweet. Will order again."
+40,50136,2025-01-28,4,Kids loved the cupcakes.
+41,50141,2025-01-25,5,Kids loved the cupcakes.
+42,50149,2025-01-29,5,Kids loved the cupcakes.
+43,50151,2025-01-28,5,Best cheesecake in town.
+44,50155,2025-01-28,4,Perfect for the party.
+45,50159,2025-01-30,5,Perfect for the party.
+46,50161,2025-01-29,5,"Moist, not too sweet. Will order again."
+47,50162,2025-02-01,5,"Great decoration, exactly as pictured."
+48,50164,2025-02-01,5,"Easy ordering, friendly driver."
+49,50173,2025-02-04,5,Perfect for the party.
+50,50183,2025-02-02,4,Perfect for the party.
+51,50186,2025-02-03,3,"Arrived two hours late, party had started."
+52,50188,2025-01-30,2,Cake was dry.
+53,50195,2025-02-04,5,Kids loved the cupcakes.
+54,50196,2025-02-03,1,"Arrived two hours late, party had started."
+55,50204,2025-02-02,5,"Beautiful cake, everyone loved it."
+56,50209,2025-02-04,5,Delicious and arrived on time!
+57,50211,2025-02-04,5,Perfect for the party.
+58,50213,2025-02-02,5,"Easy ordering, friendly driver."
+59,50216,2025-02-02,3,"Fine, nothing special."
+60,50220,2025-02-02,3,"Fine, nothing special."
+61,50222,2025-02-04,5,"Great decoration, exactly as pictured."
+62,50225,2025-02-06,4,"Great decoration, exactly as pictured."
+63,50227,2025-02-05,5,"Great decoration, exactly as pictured."
+64,50229,2025-02-02,5,"Easy ordering, friendly driver."
+65,50231,2025-02-05,4,Perfect for the party.
+66,50232,2025-02-04,4,"Easy ordering, friendly driver."
+67,50236,2025-02-07,5,"Beautiful cake, everyone loved it."
+68,50239,2025-02-06,4,Perfect for the party.
+69,50240,2025-02-04,5,"Easy ordering, friendly driver."
+70,50243,2025-02-07,3,"Delivery was very late, cake was good though."
+71,50247,2025-02-09,5,Perfect for the party.
+72,50249,2025-02-08,4,"Beautiful cake, everyone loved it."
+73,50250,2025-02-10,5,"Easy ordering, friendly driver."
+74,50259,2025-02-10,5,Delicious and arrived on time!
+75,50260,2025-02-11,4,"Easy ordering, friendly driver."
+76,50276,2025-02-13,2,Wrong flavour delivered.
+77,50279,2025-02-13,3,Tasty but a bit small for the price.
+78,50281,2025-02-11,4,Best cheesecake in town.
+79,50283,2025-02-10,5,"Beautiful cake, everyone loved it."
+80,50285,2025-02-11,5,"Beautiful cake, everyone loved it."
+81,50287,2025-02-10,5,"Great decoration, exactly as pictured."
+82,50291,2025-02-12,5,"Moist, not too sweet. Will order again."
+83,50292,2025-02-13,5,Kids loved the cupcakes.
+84,50293,2025-02-10,4,"Moist, not too sweet. Will order again."
+85,50297,2025-02-14,5,Best cheesecake in town.
+86,50302,2025-02-13,5,"Easy ordering, friendly driver."
+87,50304,2025-02-12,5,Perfect for the party.
+88,50307,2025-02-14,2,Cake was dry.
+89,50315,2025-02-15,5,Perfect for the party.
+90,50320,2025-02-12,5,"Beautiful cake, everyone loved it."
+91,50321,2025-02-16,4,"Beautiful cake, everyone loved it."
+92,50322,2025-02-12,5,Best cheesecake in town.
+93,50326,2025-02-12,2,Decoration did not match the photo.
+94,50332,2025-02-17,5,Best cheesecake in town.
+95,50336,2025-02-15,4,Best cheesecake in town.
+96,50337,2025-02-14,3,Tasty but a bit small for the price.
+97,50345,2025-02-16,5,"Easy ordering, friendly driver."
+98,50348,2025-02-17,4,Delicious and arrived on time!
+99,50350,2025-02-13,5,"Moist, not too sweet. Will order again."
+100,50352,2025-02-15,5,Kids loved the cupcakes.
+101,50353,2025-02-18,5,"Great decoration, exactly as pictured."
+102,50357,2025-02-16,5,Perfect for the party.
+103,50368,2025-02-18,3,Waited all afternoon. Not ordering again.
+104,50369,2025-02-17,2,Decoration did not match the photo.
+105,50376,2025-02-19,5,"Easy ordering, friendly driver."
+106,50387,2025-02-15,5,Best cheesecake in town.
+107,50389,2025-02-21,2,Cake was dry.
+108,50396,2025-02-15,2,Decoration did not match the photo.
+109,50411,2025-02-19,3,"Fine, nothing special."
+110,50413,2025-02-18,4,"Easy ordering, friendly driver."
+111,50417,2025-02-19,3,Late delivery and no update from the driver.
+112,50425,2025-02-22,5,"Beautiful cake, everyone loved it."
+113,50434,2025-02-24,5,"Moist, not too sweet. Will order again."
+114,50443,2025-02-26,4,Delicious and arrived on time!
+115,50444,2025-02-24,5,Best cheesecake in town.
+116,50448,2025-02-27,5,Kids loved the cupcakes.
+117,50449,2025-02-28,5,Perfect for the party.
+118,50450,2025-02-27,5,Best cheesecake in town.
+119,50458,2025-02-26,5,Delicious and arrived on time!
+120,50460,2025-02-25,5,Delicious and arrived on time!
+121,50462,2025-02-25,4,"Beautiful cake, everyone loved it."
+122,50467,2025-02-28,5,Perfect for the party.
+123,50476,2025-03-01,5,"Moist, not too sweet. Will order again."
+124,50492,2025-03-04,5,"Moist, not too sweet. Will order again."
+125,50493,2025-03-04,4,"Moist, not too sweet. Will order again."
+126,50503,2025-03-01,5,"Easy ordering, friendly driver."
+127,50504,2025-03-02,4,"Easy ordering, friendly driver."
+128,50505,2025-03-01,4,Best cheesecake in town.
+129,50508,2025-03-03,5,"Beautiful cake, everyone loved it."
+130,50512,2025-03-04,5,"Moist, not too sweet. Will order again."
+131,50513,2025-03-03,5,"Beautiful cake, everyone loved it."
+132,50515,2025-03-04,4,"Beautiful cake, everyone loved it."
+133,50520,2025-03-05,3,Tasty but a bit small for the price.
+134,50522,2025-03-05,4,"Great decoration, exactly as pictured."
+135,50524,2025-03-07,5,"Great decoration, exactly as pictured."
+136,50534,2025-03-09,5,Best cheesecake in town.
+137,50535,2025-03-06,2,Cake was dry.
+138,50536,2025-03-07,2,Decoration did not match the photo.
+139,50542,2025-03-09,4,"Easy ordering, friendly driver."
+140,50545,2025-03-09,5,"Great decoration, exactly as pictured."
+141,50548,2025-03-08,5,"Easy ordering, friendly driver."
+142,50554,2025-03-08,4,"Easy ordering, friendly driver."
+143,50555,2025-03-11,5,"Moist, not too sweet. Will order again."
+144,50558,2025-03-08,4,"Moist, not too sweet. Will order again."
+145,50559,2025-03-09,3,Decent. Icing was too sweet for me.
+146,50560,2025-03-11,3,"Good cake, packaging could be better."
+147,50567,2025-03-08,5,"Moist, not too sweet. Will order again."
+148,50569,2025-03-11,5,"Beautiful cake, everyone loved it."
+149,50570,2025-03-08,4,"Beautiful cake, everyone loved it."
+150,50573,2025-03-09,3,Tasty but a bit small for the price.
+151,50574,2025-03-10,4,"Easy ordering, friendly driver."
+152,50576,2025-03-10,4,Best cheesecake in town.
+153,50578,2025-03-12,4,"Beautiful cake, everyone loved it."
+154,50593,2025-03-15,2,Cake was dry.
+155,50601,2025-03-13,5,"Moist, not too sweet. Will order again."
+156,50603,2025-03-13,2,Cake was dry.
+157,50605,2025-03-13,5,Delicious and arrived on time!
+158,50608,2025-03-12,1,Late delivery and no update from the driver.
+159,50609,2025-03-15,5,"Moist, not too sweet. Will order again."
+160,50613,2025-03-16,4,Perfect for the party.
+161,50615,2025-03-13,5,Best cheesecake in town.
+162,50631,2025-03-17,5,"Moist, not too sweet. Will order again."
+163,50639,2025-03-18,3,Decent. Icing was too sweet for me.
+164,50641,2025-03-20,2,Cake was dry.
+165,50643,2025-03-18,4,Best cheesecake in town.
+166,50646,2025-03-19,4,Perfect for the party.
+167,50649,2025-03-21,4,Kids loved the cupcakes.
+168,50650,2025-03-21,5,"Moist, not too sweet. Will order again."
+169,50654,2025-03-21,4,Kids loved the cupcakes.
+170,50656,2025-03-21,5,"Great decoration, exactly as pictured."
+171,50658,2025-03-18,5,"Easy ordering, friendly driver."
+172,50664,2025-03-21,5,"Easy ordering, friendly driver."
+173,50665,2025-03-21,5,Delicious and arrived on time!
+174,50669,2025-03-20,5,"Moist, not too sweet. Will order again."
+175,50670,2025-03-22,2,Wrong flavour delivered.
+176,50672,2025-03-20,4,"Easy ordering, friendly driver."
+177,50673,2025-03-21,4,Best cheesecake in town.
+178,50675,2025-03-20,4,"Moist, not too sweet. Will order again."
+179,50682,2025-03-22,4,Best cheesecake in town.
+180,50683,2025-03-21,5,Perfect for the party.
+181,50684,2025-03-24,5,Kids loved the cupcakes.
+182,50687,2025-03-23,4,"Moist, not too sweet. Will order again."
+183,50698,2025-03-24,5,Kids loved the cupcakes.
+184,50699,2025-03-23,5,Delicious and arrived on time!
+185,50708,2025-03-23,3,"Fine, nothing special."
+186,50710,2025-03-26,3,"Fine, nothing special."
+187,50713,2025-03-26,4,Delicious and arrived on time!
+188,50715,2025-03-26,4,Kids loved the cupcakes.
+189,50716,2025-03-24,5,"Beautiful cake, everyone loved it."
+190,50717,2025-03-24,2,Wrong flavour delivered.
+191,50719,2025-03-24,3,"Fine, nothing special."
+192,50724,2025-03-27,1,"Delivery was very late, cake was good though."
+193,50728,2025-03-29,5,"Easy ordering, friendly driver."
+194,50732,2025-03-29,4,"Easy ordering, friendly driver."
+195,50736,2025-03-30,5,"Beautiful cake, everyone loved it."
+196,50743,2025-04-02,5,Kids loved the cupcakes.
+197,50744,2025-03-27,5,Delicious and arrived on time!
+198,50748,2025-03-29,4,Best cheesecake in town.
+199,50750,2025-03-28,4,"Beautiful cake, everyone loved it."
+200,50755,2025-03-31,5,"Moist, not too sweet. Will order again."
+201,50758,2025-04-03,5,Best cheesecake in town.
+202,50759,2025-04-01,5,Delicious and arrived on time!
+203,50761,2025-03-29,5,"Easy ordering, friendly driver."
+204,50763,2025-04-01,4,Kids loved the cupcakes.
+205,50767,2025-03-31,4,"Easy ordering, friendly driver."
+206,50768,2025-04-01,4,Kids loved the cupcakes.
+207,50769,2025-04-01,5,Delicious and arrived on time!
+208,50774,2025-04-01,1,Late delivery and no update from the driver.
+209,50779,2025-04-02,5,"Easy ordering, friendly driver."
+210,50782,2025-04-05,5,Delicious and arrived on time!
+211,50789,2025-04-02,2,Wrong flavour delivered.
+212,50790,2025-04-04,5,"Great decoration, exactly as pictured."
+213,50794,2025-04-03,2,Decoration did not match the photo.
+214,50796,2025-04-05,5,"Easy ordering, friendly driver."
+215,50809,2025-04-08,5,"Easy ordering, friendly driver."
+216,50810,2025-04-06,3,Decent. Icing was too sweet for me.
+217,50813,2025-04-05,5,"Easy ordering, friendly driver."
+218,50814,2025-04-04,5,"Great decoration, exactly as pictured."
+219,50816,2025-04-04,5,Perfect for the party.
+220,50820,2025-04-08,5,Perfect for the party.
+221,50826,2025-04-06,5,"Beautiful cake, everyone loved it."
+222,50827,2025-04-08,5,Kids loved the cupcakes.
+223,50828,2025-04-06,2,Waited all afternoon. Not ordering again.
+224,50834,2025-04-13,5,Delicious and arrived on time!
+225,50837,2025-04-07,4,"Easy ordering, friendly driver."
+226,50840,2025-04-12,5,Perfect for the party.
+227,50841,2025-04-10,5,Delicious and arrived on time!
+228,50842,2025-04-10,4,"Moist, not too sweet. Will order again."
+229,50846,2025-04-09,5,Perfect for the party.
+230,50848,2025-04-10,4,"Easy ordering, friendly driver."
+231,50860,2025-04-11,5,"Beautiful cake, everyone loved it."
+232,50863,2025-04-15,5,Best cheesecake in town.
+233,50864,2025-04-13,5,"Great decoration, exactly as pictured."
+234,50865,2025-04-15,5,Delicious and arrived on time!
+235,50868,2025-04-12,5,Kids loved the cupcakes.
+236,50869,2025-04-11,5,"Moist, not too sweet. Will order again."
+237,50870,2025-04-16,5,"Great decoration, exactly as pictured."
+238,50875,2025-04-12,4,"Easy ordering, friendly driver."
+239,50882,2025-04-13,5,"Beautiful cake, everyone loved it."
+240,50886,2025-04-17,5,"Beautiful cake, everyone loved it."
+241,50891,2025-04-18,5,Kids loved the cupcakes.
+242,50892,2025-04-15,4,"Easy ordering, friendly driver."
+243,50899,2025-04-19,5,"Great decoration, exactly as pictured."
+244,50901,2025-04-15,5,Kids loved the cupcakes.
+245,50903,2025-04-16,4,Perfect for the party.
+246,50904,2025-04-19,5,Kids loved the cupcakes.
+247,50916,2025-04-19,3,"Fine, nothing special."
+248,50921,2025-04-18,4,"Great decoration, exactly as pictured."
+249,50922,2025-04-22,5,"Great decoration, exactly as pictured."
+250,50925,2025-04-20,5,"Easy ordering, friendly driver."
+251,50930,2025-04-23,2,Wrong flavour delivered.
+252,50936,2025-04-21,3,Tasty but a bit small for the price.
+253,50937,2025-04-22,5,"Moist, not too sweet. Will order again."
+254,50946,2025-04-23,5,Best cheesecake in town.
+255,50950,2025-04-24,3,Decent. Icing was too sweet for me.
+256,50951,2025-04-21,4,"Beautiful cake, everyone loved it."
+257,50967,2025-04-26,5,"Beautiful cake, everyone loved it."
+258,50976,2025-04-28,5,"Beautiful cake, everyone loved it."
+259,50977,2025-04-24,5,"Easy ordering, friendly driver."
+260,50979,2025-04-29,4,Kids loved the cupcakes.
+261,50984,2025-04-29,2,Cake was dry.
+262,50985,2025-04-26,5,Delicious and arrived on time!
+263,50988,2025-04-29,5,Delicious and arrived on time!
+264,50989,2025-04-30,4,"Beautiful cake, everyone loved it."
+265,50992,2025-04-26,5,Delicious and arrived on time!
+266,50996,2025-04-26,4,"Easy ordering, friendly driver."
+267,51000,2025-04-27,5,Kids loved the cupcakes.
+268,51004,2025-05-01,5,Delicious and arrived on time!
+269,51009,2025-04-27,5,"Easy ordering, friendly driver."
+270,51014,2025-05-02,5,Delicious and arrived on time!
+271,51018,2025-05-03,4,Kids loved the cupcakes.
+272,51020,2025-05-01,4,"Easy ordering, friendly driver."
+273,51021,2025-04-30,5,"Moist, not too sweet. Will order again."
+274,51029,2025-05-03,4,Kids loved the cupcakes.
+275,51030,2025-05-04,4,Delicious and arrived on time!
+276,51033,2025-05-02,4,"Great decoration, exactly as pictured."
+277,51035,2025-04-30,4,Kids loved the cupcakes.
+278,51041,2025-05-05,2,Decoration did not match the photo.
+279,51042,2025-05-01,3,Tasty but a bit small for the price.
+280,51043,2025-05-02,5,"Beautiful cake, everyone loved it."
+281,51045,2025-05-05,2,Decoration did not match the photo.
+282,51048,2025-05-03,5,Best cheesecake in town.
+283,51050,2025-05-06,3,"Good cake, packaging could be better."
+284,51052,2025-05-02,1,Late delivery and no update from the driver.
+285,51054,2025-05-05,4,"Great decoration, exactly as pictured."
+286,51059,2025-05-05,5,Kids loved the cupcakes.
+287,51061,2025-05-04,5,Kids loved the cupcakes.
+288,51064,2025-05-05,5,"Moist, not too sweet. Will order again."
+289,51065,2025-05-05,5,"Great decoration, exactly as pictured."
+290,51076,2025-05-04,5,"Beautiful cake, everyone loved it."
+291,51081,2025-05-07,4,Best cheesecake in town.
+292,51082,2025-05-06,3,"Fine, nothing special."
+293,51086,2025-05-09,4,Perfect for the party.
+294,51087,2025-05-10,2,Decoration did not match the photo.
+295,51094,2025-05-08,5,"Easy ordering, friendly driver."
+296,51096,2025-05-11,5,Perfect for the party.
+297,51097,2025-05-11,5,Perfect for the party.
+298,51106,2025-05-08,5,"Moist, not too sweet. Will order again."
+299,51110,2025-05-08,4,"Beautiful cake, everyone loved it."
+300,51116,2025-05-12,5,Kids loved the cupcakes.
+301,51118,2025-05-11,4,Delicious and arrived on time!
+302,51119,2025-05-09,4,"Great decoration, exactly as pictured."
+303,51120,2025-05-09,5,Perfect for the party.
+304,51123,2025-05-12,5,"Easy ordering, friendly driver."
+305,51124,2025-05-13,5,Kids loved the cupcakes.
+306,51125,2025-05-12,5,"Moist, not too sweet. Will order again."
+307,51129,2025-05-11,4,Kids loved the cupcakes.
+308,51139,2025-05-10,4,Perfect for the party.
+309,51152,2025-05-12,4,"Great decoration, exactly as pictured."
+310,51158,2025-05-14,5,Kids loved the cupcakes.
+311,51161,2025-05-12,3,Decent. Icing was too sweet for me.
+312,51162,2025-05-12,5,Perfect for the party.
+313,51166,2025-05-12,5,"Great decoration, exactly as pictured."
+314,51176,2025-05-13,5,Delicious and arrived on time!
+315,51181,2025-05-14,5,"Great decoration, exactly as pictured."
+316,51185,2025-05-12,4,"Moist, not too sweet. Will order again."
+317,51188,2025-05-16,5,Best cheesecake in town.
+318,51195,2025-05-15,4,Kids loved the cupcakes.
+319,51197,2025-05-14,5,"Great decoration, exactly as pictured."
+320,51201,2025-05-14,5,Perfect for the party.
+321,51203,2025-05-12,5,Delicious and arrived on time!
+322,51205,2025-05-12,1,"Delivery was very late, cake was good though."
+323,51209,2025-05-13,4,Delicious and arrived on time!
+324,51212,2025-05-17,3,Waited all afternoon. Not ordering again.
+325,51218,2025-05-16,5,Perfect for the party.
+326,51225,2025-05-18,3,Decent. Icing was too sweet for me.
+327,51226,2025-05-18,5,Delicious and arrived on time!
+328,51230,2025-05-17,5,Kids loved the cupcakes.
+329,51233,2025-05-17,4,"Great decoration, exactly as pictured."
+330,51235,2025-05-17,4,Perfect for the party.
+331,51236,2025-05-20,5,"Moist, not too sweet. Will order again."
+332,51242,2025-05-21,5,Perfect for the party.
+333,51243,2025-05-23,5,Perfect for the party.
+334,51249,2025-05-22,5,Best cheesecake in town.
+335,51252,2025-05-24,5,"Moist, not too sweet. Will order again."
+336,51253,2025-05-18,5,"Great decoration, exactly as pictured."
+337,51263,2025-05-20,5,Delicious and arrived on time!
+338,51277,2025-05-21,4,"Moist, not too sweet. Will order again."
+339,51278,2025-05-25,4,Delicious and arrived on time!
+340,51286,2025-05-24,4,"Great decoration, exactly as pictured."
+341,51294,2025-05-28,5,"Moist, not too sweet. Will order again."
+342,51302,2025-05-28,5,"Great decoration, exactly as pictured."
+343,51307,2025-05-29,5,"Beautiful cake, everyone loved it."
+344,51308,2025-05-26,4,"Great decoration, exactly as pictured."
+345,51311,2025-05-28,2,Wrong flavour delivered.
+346,51313,2025-05-30,4,"Beautiful cake, everyone loved it."
+347,51314,2025-05-26,3,Tasty but a bit small for the price.
+348,51315,2025-05-29,5,Perfect for the party.
+349,51317,2025-05-27,3,Decent. Icing was too sweet for me.
+350,51319,2025-05-29,5,"Moist, not too sweet. Will order again."
+351,51326,2025-05-28,5,Kids loved the cupcakes.
+352,51328,2025-05-28,5,"Great decoration, exactly as pictured."
+353,51332,2025-06-01,4,"Easy ordering, friendly driver."
+354,51333,2025-06-01,4,Delicious and arrived on time!
+355,51346,2025-06-01,5,Perfect for the party.
+356,51347,2025-05-30,3,"Good cake, packaging could be better."
+357,51354,2025-06-02,5,"Great decoration, exactly as pictured."
+358,51355,2025-06-02,2,Cake was dry.
+359,51358,2025-06-03,3,"Good cake, packaging could be better."
+360,51363,2025-06-03,5,"Beautiful cake, everyone loved it."
+361,51366,2025-06-06,3,"Fine, nothing special."
+362,51372,2025-06-04,4,"Great decoration, exactly as pictured."
+363,51378,2025-06-04,4,Perfect for the party.
+364,51381,2025-06-04,4,Best cheesecake in town.
+365,51386,2025-06-04,5,"Beautiful cake, everyone loved it."
+366,51393,2025-06-03,4,Kids loved the cupcakes.
+367,51396,2025-06-06,5,Best cheesecake in town.
+368,51404,2025-06-04,2,"Delivery was very late, cake was good though."
+369,51405,2025-06-08,5,Delicious and arrived on time!
+370,51410,2025-06-07,2,Decoration did not match the photo.
+371,51416,2025-06-10,4,"Easy ordering, friendly driver."
+372,51417,2025-06-09,5,"Easy ordering, friendly driver."
+373,51418,2025-06-08,5,"Great decoration, exactly as pictured."
+374,51422,2025-06-07,5,"Beautiful cake, everyone loved it."
+375,51434,2025-06-07,5,Delicious and arrived on time!
+376,51435,2025-06-10,4,Best cheesecake in town.
+377,51436,2025-06-11,5,Kids loved the cupcakes.
+378,51449,2025-06-14,4,Delicious and arrived on time!
+379,51453,2025-06-12,5,Delicious and arrived on time!
+380,51457,2025-06-09,4,"Beautiful cake, everyone loved it."
+381,51460,2025-06-12,4,Perfect for the party.
+382,51461,2025-06-11,5,"Great decoration, exactly as pictured."
+383,51463,2025-06-11,5,"Beautiful cake, everyone loved it."
+384,51468,2025-06-11,4,Delicious and arrived on time!
+385,51469,2025-06-13,5,"Great decoration, exactly as pictured."
+386,51474,2025-06-15,5,Kids loved the cupcakes.
+387,51477,2025-06-14,4,"Moist, not too sweet. Will order again."
+388,51478,2025-06-12,4,"Moist, not too sweet. Will order again."
+389,51480,2025-06-16,5,Perfect for the party.
+390,51481,2025-06-15,5,Delicious and arrived on time!
+391,51493,2025-06-15,4,Perfect for the party.
+392,51494,2025-06-17,4,"Beautiful cake, everyone loved it."
+393,51498,2025-06-18,4,Best cheesecake in town.
+394,51502,2025-06-19,4,"Easy ordering, friendly driver."
+395,51509,2025-06-16,4,"Great decoration, exactly as pictured."
+396,51513,2025-06-19,5,"Easy ordering, friendly driver."
+397,51517,2025-06-21,4,"Moist, not too sweet. Will order again."
+398,51520,2025-06-19,4,Perfect for the party.
+399,51528,2025-06-22,4,Delicious and arrived on time!
+400,51531,2025-06-18,2,Cake was dry.
+401,51534,2025-06-19,5,Best cheesecake in town.
+402,51536,2025-06-22,5,"Beautiful cake, everyone loved it."
+403,51541,2025-06-24,5,Kids loved the cupcakes.
+404,51553,2025-06-22,3,"Fine, nothing special."
+405,51555,2025-06-25,5,Delicious and arrived on time!
+406,51557,2025-06-22,5,"Beautiful cake, everyone loved it."
+407,51558,2025-06-23,5,Delicious and arrived on time!
+408,51559,2025-06-23,4,Best cheesecake in town.
+409,51561,2025-06-25,4,Best cheesecake in town.
+410,51566,2025-06-28,5,"Beautiful cake, everyone loved it."
+411,51567,2025-06-28,4,Perfect for the party.
+412,51571,2025-06-28,5,"Moist, not too sweet. Will order again."
+413,51573,2025-06-28,4,"Moist, not too sweet. Will order again."
+414,51575,2025-06-26,4,Best cheesecake in town.
+415,51582,2025-06-28,5,"Beautiful cake, everyone loved it."
+416,51583,2025-06-28,5,Perfect for the party.
+417,51587,2025-06-28,5,Best cheesecake in town.
+418,51591,2025-06-29,5,Kids loved the cupcakes.
+419,51596,2025-06-29,4,"Easy ordering, friendly driver."
+420,51601,2025-06-29,5,"Moist, not too sweet. Will order again."
+421,51602,2025-07-01,5,Kids loved the cupcakes.
+422,51605,2025-07-01,5,Perfect for the party.
+423,51608,2025-07-02,5,Perfect for the party.
+424,51612,2025-07-01,4,"Beautiful cake, everyone loved it."
+425,51614,2025-07-01,5,"Moist, not too sweet. Will order again."
+426,51616,2025-06-30,4,Delicious and arrived on time!
+427,51620,2025-07-01,4,Kids loved the cupcakes.
+428,51625,2025-07-03,2,Late delivery and no update from the driver.
+429,51638,2025-07-03,4,Delicious and arrived on time!
+430,51640,2025-07-02,5,Best cheesecake in town.
+431,51641,2025-07-01,3,Tasty but a bit small for the price.
+432,51644,2025-07-05,5,"Great decoration, exactly as pictured."
+433,51645,2025-07-04,1,"Arrived two hours late, party had started."
+434,51647,2025-07-05,3,Decent. Icing was too sweet for me.
+435,51651,2025-07-03,4,Perfect for the party.
+436,51652,2025-07-05,5,"Moist, not too sweet. Will order again."
+437,51656,2025-07-06,5,"Great decoration, exactly as pictured."
+438,51658,2025-07-05,2,Cake was dry.
+439,51668,2025-07-07,5,"Great decoration, exactly as pictured."
+440,51672,2025-07-09,4,Kids loved the cupcakes.
+441,51676,2025-07-11,5,Best cheesecake in town.
+442,51680,2025-07-11,2,Wrong flavour delivered.
+443,51681,2025-07-11,2,Cake came late and the box was crushed.
+444,51688,2025-07-11,5,"Beautiful cake, everyone loved it."
+445,51694,2025-07-11,4,"Easy ordering, friendly driver."
+446,51701,2025-07-12,5,"Moist, not too sweet. Will order again."
+447,51702,2025-07-12,4,"Moist, not too sweet. Will order again."
+448,51704,2025-07-13,4,Delicious and arrived on time!
+449,51707,2025-07-13,4,"Beautiful cake, everyone loved it."
+450,51710,2025-07-12,5,"Moist, not too sweet. Will order again."
+451,51716,2025-07-15,5,Kids loved the cupcakes.
+452,51719,2025-07-14,3,"Good cake, packaging could be better."
+453,51724,2025-07-12,3,"Good cake, packaging could be better."
+454,51728,2025-07-16,5,Delicious and arrived on time!
+455,51739,2025-07-18,5,Perfect for the party.
+456,51740,2025-07-18,3,"Good cake, packaging could be better."
+457,51744,2025-07-17,4,"Beautiful cake, everyone loved it."
+458,51746,2025-07-17,3,Tasty but a bit small for the price.
+459,51753,2025-07-19,4,"Moist, not too sweet. Will order again."
+460,51757,2025-07-17,5,Perfect for the party.
+461,51759,2025-07-17,1,"Delivery was very late, cake was good though."
+462,51761,2025-07-22,4,"Easy ordering, friendly driver."
+463,51764,2025-07-22,5,"Moist, not too sweet. Will order again."
+464,51765,2025-07-18,5,"Great decoration, exactly as pictured."
+465,51769,2025-07-19,5,"Moist, not too sweet. Will order again."
+466,51781,2025-07-24,4,Best cheesecake in town.
+467,51784,2025-07-22,5,"Great decoration, exactly as pictured."
+468,51789,2025-07-21,3,"Fine, nothing special."
+469,51791,2025-07-25,5,Delicious and arrived on time!
+470,51792,2025-07-25,5,Best cheesecake in town.
+471,51794,2025-07-23,5,"Beautiful cake, everyone loved it."
+472,51795,2025-07-26,5,Best cheesecake in town.
+473,51799,2025-07-23,4,Kids loved the cupcakes.
+474,51810,2025-07-27,4,"Easy ordering, friendly driver."
+475,51817,2025-07-29,5,"Moist, not too sweet. Will order again."
+476,51818,2025-07-26,3,Decent. Icing was too sweet for me.
+477,51820,2025-07-29,5,"Moist, not too sweet. Will order again."
+478,51831,2025-07-27,4,"Easy ordering, friendly driver."
+479,51832,2025-07-27,5,"Moist, not too sweet. Will order again."
+480,51834,2025-07-26,3,Decent. Icing was too sweet for me.
+481,51841,2025-07-30,4,Delicious and arrived on time!
+482,51843,2025-07-29,2,Cake came late and the box was crushed.
+483,51850,2025-07-29,4,"Great decoration, exactly as pictured."
+484,51853,2025-07-31,4,Perfect for the party.
+485,51858,2025-07-30,5,"Beautiful cake, everyone loved it."
+486,51868,2025-08-04,3,"Good cake, packaging could be better."
+487,51869,2025-07-31,5,Kids loved the cupcakes.
+488,51870,2025-08-03,2,Cake was dry.
+489,51872,2025-08-05,5,Best cheesecake in town.
+490,51879,2025-08-03,5,"Great decoration, exactly as pictured."
+491,51881,2025-08-04,2,Decoration did not match the photo.
+492,51883,2025-08-05,4,Perfect for the party.
+493,51892,2025-08-06,5,"Beautiful cake, everyone loved it."
+494,51895,2025-08-03,4,"Great decoration, exactly as pictured."
+495,51896,2025-08-04,5,"Moist, not too sweet. Will order again."
+496,51899,2025-08-06,5,"Easy ordering, friendly driver."
+497,51900,2025-08-04,5,"Easy ordering, friendly driver."
+498,51906,2025-08-08,4,"Great decoration, exactly as pictured."
+499,51907,2025-08-06,4,"Easy ordering, friendly driver."
+500,51908,2025-08-09,5,"Great decoration, exactly as pictured."
+501,51916,2025-08-05,5,"Great decoration, exactly as pictured."
+502,51925,2025-08-09,5,"Beautiful cake, everyone loved it."
+503,51940,2025-08-09,5,"Moist, not too sweet. Will order again."
+504,51943,2025-08-10,3,Tasty but a bit small for the price.
+505,51945,2025-08-14,5,"Beautiful cake, everyone loved it."
+506,51946,2025-08-16,3,Decent. Icing was too sweet for me.
+507,51949,2025-08-13,5,"Great decoration, exactly as pictured."
+508,51951,2025-08-14,5,Delicious and arrived on time!
+509,51952,2025-08-13,5,Kids loved the cupcakes.
+510,51953,2025-08-13,2,"Arrived two hours late, party had started."
+511,51954,2025-08-12,5,Delicious and arrived on time!
+512,51963,2025-08-14,4,Perfect for the party.
+513,51969,2025-08-15,4,Kids loved the cupcakes.
+514,51971,2025-08-13,5,Kids loved the cupcakes.
+515,51973,2025-08-14,5,Best cheesecake in town.
+516,51976,2025-08-14,3,Decent. Icing was too sweet for me.
+517,51979,2025-08-17,5,Perfect for the party.
+518,51985,2025-08-19,5,"Moist, not too sweet. Will order again."
+519,51988,2025-08-19,5,"Easy ordering, friendly driver."
+520,51989,2025-08-17,5,Perfect for the party.
+521,51991,2025-08-17,5,"Moist, not too sweet. Will order again."
+522,51995,2025-08-20,5,"Easy ordering, friendly driver."
+523,51997,2025-08-20,4,Best cheesecake in town.
+524,51999,2025-08-19,5,Best cheesecake in town.
+525,52004,2025-08-19,4,"Great decoration, exactly as pictured."
+526,52017,2025-08-20,5,Delicious and arrived on time!
+527,52018,2025-08-18,2,Wrong flavour delivered.
+528,52023,2025-08-22,5,Best cheesecake in town.
+529,52030,2025-08-19,5,Best cheesecake in town.
+530,52033,2025-08-24,5,Perfect for the party.
+531,52035,2025-08-21,5,Best cheesecake in town.
+532,52036,2025-08-22,4,"Moist, not too sweet. Will order again."
+533,52037,2025-08-24,4,Delicious and arrived on time!
+534,52044,2025-08-25,5,Best cheesecake in town.
+535,52050,2025-08-23,5,Perfect for the party.
+536,52057,2025-08-26,5,Delicious and arrived on time!
+537,52064,2025-08-25,2,Cake came late and the box was crushed.
+538,52065,2025-08-27,4,Delicious and arrived on time!
+539,52079,2025-08-28,4,"Great decoration, exactly as pictured."
+540,52084,2025-08-30,5,"Great decoration, exactly as pictured."
+541,52086,2025-08-31,5,Best cheesecake in town.
+542,52088,2025-08-30,5,"Beautiful cake, everyone loved it."
+543,52089,2025-08-29,4,"Moist, not too sweet. Will order again."
+544,52093,2025-08-31,5,"Easy ordering, friendly driver."
+545,52099,2025-08-29,5,"Moist, not too sweet. Will order again."
+546,52101,2025-09-02,5,"Great decoration, exactly as pictured."
+547,52104,2025-09-01,5,"Easy ordering, friendly driver."
+548,52106,2025-08-30,5,Delicious and arrived on time!
+549,52107,2025-09-01,4,"Beautiful cake, everyone loved it."
+550,52109,2025-09-02,5,"Moist, not too sweet. Will order again."
+551,52124,2025-09-01,4,"Moist, not too sweet. Will order again."
+552,52137,2025-09-03,4,Perfect for the party.
+553,52142,2025-09-02,5,Best cheesecake in town.
+554,52144,2025-09-05,5,"Moist, not too sweet. Will order again."
+555,52151,2025-09-07,5,Perfect for the party.
+556,52152,2025-09-06,4,"Moist, not too sweet. Will order again."
+557,52158,2025-09-07,4,"Moist, not too sweet. Will order again."
+558,52167,2025-09-06,5,Perfect for the party.
+559,52168,2025-09-05,2,"Delivery was very late, cake was good though."
+560,52174,2025-09-07,1,Waited all afternoon. Not ordering again.
+561,52177,2025-09-09,4,"Easy ordering, friendly driver."
+562,52180,2025-09-08,3,Decent. Icing was too sweet for me.
+563,52181,2025-09-08,4,"Beautiful cake, everyone loved it."
+564,52182,2025-09-06,2,Cake came late and the box was crushed.
+565,52185,2025-09-06,5,"Great decoration, exactly as pictured."
+566,52195,2025-09-07,3,"Fine, nothing special."
+567,52196,2025-09-10,5,Perfect for the party.
+568,52201,2025-09-09,3,"Fine, nothing special."
+569,52206,2025-09-11,3,"Good cake, packaging could be better."
+570,52207,2025-09-08,4,Perfect for the party.
+571,52210,2025-09-08,5,Best cheesecake in town.
+572,52233,2025-09-13,4,"Great decoration, exactly as pictured."
+573,52236,2025-09-12,5,Best cheesecake in town.
+574,52237,2025-09-11,3,Tasty but a bit small for the price.
+575,52240,2025-09-10,4,Delicious and arrived on time!
+576,52247,2025-09-12,5,Kids loved the cupcakes.
+577,52250,2025-09-11,5,"Moist, not too sweet. Will order again."
+578,52251,2025-09-15,4,Kids loved the cupcakes.
+579,52260,2025-09-16,2,Cake was dry.
+580,52268,2025-09-17,5,"Great decoration, exactly as pictured."
+581,52277,2025-09-17,5,"Easy ordering, friendly driver."
+582,52283,2025-09-16,3,"Good cake, packaging could be better."
+583,52284,2025-09-14,5,Kids loved the cupcakes.
+584,52286,2025-09-17,5,"Great decoration, exactly as pictured."
+585,52287,2025-09-16,4,"Beautiful cake, everyone loved it."
+586,52290,2025-09-18,5,Delicious and arrived on time!
+587,52300,2025-09-18,4,"Great decoration, exactly as pictured."
+588,52315,2025-09-19,4,Kids loved the cupcakes.
+589,52318,2025-09-17,5,"Easy ordering, friendly driver."
+590,52320,2025-09-20,4,Kids loved the cupcakes.
+591,52321,2025-09-21,5,"Moist, not too sweet. Will order again."
+592,52329,2025-09-22,4,"Beautiful cake, everyone loved it."
+593,52331,2025-09-23,5,Delicious and arrived on time!
+594,52336,2025-09-20,5,"Moist, not too sweet. Will order again."
+595,52339,2025-09-23,4,Perfect for the party.
+596,52340,2025-09-21,5,"Great decoration, exactly as pictured."
+597,52346,2025-09-20,4,"Easy ordering, friendly driver."
+598,52347,2025-09-24,4,Kids loved the cupcakes.
+599,52352,2025-09-23,4,Kids loved the cupcakes.
+600,52353,2025-09-22,5,Best cheesecake in town.
+601,52359,2025-09-21,4,Delicious and arrived on time!
+602,52366,2025-09-23,5,"Great decoration, exactly as pictured."
+603,52367,2025-09-26,5,"Great decoration, exactly as pictured."
+604,52368,2025-09-23,5,"Beautiful cake, everyone loved it."
+605,52374,2025-09-22,5,Best cheesecake in town.
+606,52377,2025-09-22,4,"Beautiful cake, everyone loved it."
+607,52378,2025-09-22,5,"Moist, not too sweet. Will order again."
+608,52386,2025-09-24,3,"Fine, nothing special."
+609,52388,2025-09-27,5,"Great decoration, exactly as pictured."
+610,52389,2025-09-24,3,Decent. Icing was too sweet for me.
+611,52390,2025-09-27,5,Best cheesecake in town.
+612,52392,2025-09-24,5,"Moist, not too sweet. Will order again."
+613,52397,2025-09-24,2,Wrong flavour delivered.
+614,52400,2025-09-28,5,"Beautiful cake, everyone loved it."
+615,52405,2025-09-25,1,Late delivery and no update from the driver.
+616,52408,2025-09-25,4,"Beautiful cake, everyone loved it."
+617,52414,2025-09-27,2,Decoration did not match the photo.
+618,52415,2025-09-28,2,Cake was dry.
+619,52416,2025-09-25,4,Best cheesecake in town.
+620,52418,2025-09-25,4,Delicious and arrived on time!
+621,52422,2025-09-28,5,Delicious and arrived on time!
+622,52424,2025-09-26,4,"Easy ordering, friendly driver."
+623,52428,2025-09-28,4,"Beautiful cake, everyone loved it."
+624,52430,2025-09-29,5,"Beautiful cake, everyone loved it."
+625,52431,2025-09-28,5,"Beautiful cake, everyone loved it."
+626,52440,2025-09-27,1,Late delivery and no update from the driver.
+627,52441,2025-10-01,4,Kids loved the cupcakes.
+628,52444,2025-09-30,5,"Great decoration, exactly as pictured."
+629,52445,2025-09-28,4,"Beautiful cake, everyone loved it."
+630,52448,2025-09-28,4,Delicious and arrived on time!
+631,52450,2025-10-02,4,Best cheesecake in town.
+632,52452,2025-09-29,4,"Easy ordering, friendly driver."
+633,52455,2025-10-02,5,"Moist, not too sweet. Will order again."
+634,52466,2025-10-01,2,Cake came late and the box was crushed.
+635,52467,2025-09-29,5,"Easy ordering, friendly driver."
+636,52468,2025-10-04,4,"Moist, not too sweet. Will order again."
+637,52469,2025-10-03,4,Kids loved the cupcakes.
+638,52472,2025-10-03,4,"Easy ordering, friendly driver."
+639,52477,2025-10-04,3,"Fine, nothing special."
+640,52480,2025-10-01,4,"Great decoration, exactly as pictured."
+641,52487,2025-10-02,4,"Easy ordering, friendly driver."
+642,52496,2025-10-04,4,Kids loved the cupcakes.
+643,52497,2025-10-03,3,Tasty but a bit small for the price.
+644,52502,2025-10-03,5,Delicious and arrived on time!
+645,52503,2025-10-05,3,"Fine, nothing special."
+646,52504,2025-10-04,5,Perfect for the party.
+647,52506,2025-10-05,2,Cake came late and the box was crushed.
+648,52507,2025-10-03,4,Delicious and arrived on time!
+649,52510,2025-10-06,3,Tasty but a bit small for the price.
+650,52511,2025-10-05,5,"Easy ordering, friendly driver."
+651,52515,2025-10-04,5,Best cheesecake in town.
+652,52519,2025-10-09,4,"Easy ordering, friendly driver."
+653,52526,2025-10-07,3,Cake came late and the box was crushed.
+654,52528,2025-10-07,3,Tasty but a bit small for the price.
+655,52534,2025-10-08,5,Kids loved the cupcakes.
+656,52535,2025-10-08,5,"Beautiful cake, everyone loved it."
+657,52538,2025-10-10,2,Late delivery and no update from the driver.
+658,52540,2025-10-10,4,Perfect for the party.
+659,52541,2025-10-12,3,Decent. Icing was too sweet for me.
+660,52542,2025-10-07,3,Tasty but a bit small for the price.
+661,52543,2025-10-10,5,"Easy ordering, friendly driver."
+662,52545,2025-10-11,5,"Great decoration, exactly as pictured."
+663,52548,2025-10-11,4,"Moist, not too sweet. Will order again."
+664,52554,2025-10-10,3,"Good cake, packaging could be better."
+665,52560,2025-10-11,4,"Moist, not too sweet. Will order again."
+666,52565,2025-10-12,5,"Moist, not too sweet. Will order again."
+667,52567,2025-10-08,1,Cake came late and the box was crushed.
+668,52582,2025-10-15,4,Best cheesecake in town.
+669,52584,2025-10-11,4,Delicious and arrived on time!
+670,52585,2025-10-13,5,Kids loved the cupcakes.
+671,52593,2025-10-11,4,Perfect for the party.
+672,52594,2025-10-11,4,"Moist, not too sweet. Will order again."
+673,52597,2025-10-12,4,"Great decoration, exactly as pictured."
+674,52602,2025-10-12,4,"Beautiful cake, everyone loved it."
+675,52606,2025-10-14,2,Decoration did not match the photo.
+676,52610,2025-10-13,4,"Beautiful cake, everyone loved it."
+677,52611,2025-10-12,4,Delicious and arrived on time!
+678,52614,2025-10-18,5,"Moist, not too sweet. Will order again."
+679,52615,2025-10-19,3,Decent. Icing was too sweet for me.
+680,52619,2025-10-17,2,Decoration did not match the photo.
+681,52622,2025-10-16,4,"Easy ordering, friendly driver."
+682,52624,2025-10-14,5,"Easy ordering, friendly driver."
+683,52625,2025-10-15,4,"Great decoration, exactly as pictured."
+684,52626,2025-10-15,5,"Beautiful cake, everyone loved it."
+685,52631,2025-10-16,4,"Moist, not too sweet. Will order again."
+686,52633,2025-10-15,5,"Beautiful cake, everyone loved it."
+687,52641,2025-10-18,5,"Easy ordering, friendly driver."
+688,52642,2025-10-19,2,Decoration did not match the photo.
+689,52644,2025-10-17,2,"Arrived two hours late, party had started."
+690,52647,2025-10-18,5,"Easy ordering, friendly driver."
+691,52657,2025-10-19,3,Decent. Icing was too sweet for me.
+692,52664,2025-10-19,4,"Easy ordering, friendly driver."
+693,52675,2025-10-25,4,"Easy ordering, friendly driver."
+694,52678,2025-10-19,2,Waited all afternoon. Not ordering again.
+695,52683,2025-10-23,4,"Moist, not too sweet. Will order again."
+696,52687,2025-10-22,5,Delicious and arrived on time!
+697,52692,2025-10-25,2,Decoration did not match the photo.
+698,52693,2025-10-25,4,"Great decoration, exactly as pictured."
+699,52694,2025-10-22,1,"Arrived two hours late, party had started."
+700,52698,2025-10-23,5,"Easy ordering, friendly driver."
+701,52701,2025-10-26,5,"Great decoration, exactly as pictured."
+702,52706,2025-10-25,5,"Great decoration, exactly as pictured."
+703,52711,2025-10-25,4,Delicious and arrived on time!
+704,52722,2025-10-26,5,Kids loved the cupcakes.
+705,52723,2025-10-25,4,Delicious and arrived on time!
+706,52728,2025-10-27,4,"Easy ordering, friendly driver."
+707,52731,2025-10-27,5,Delicious and arrived on time!
+708,52737,2025-10-28,3,Decent. Icing was too sweet for me.
+709,52753,2025-10-29,5,Kids loved the cupcakes.
+710,52754,2025-10-31,5,Best cheesecake in town.
+711,52756,2025-10-28,5,"Great decoration, exactly as pictured."
+712,52766,2025-10-30,4,"Great decoration, exactly as pictured."
+713,52767,2025-11-01,5,"Moist, not too sweet. Will order again."
+714,52775,2025-10-30,5,"Moist, not too sweet. Will order again."
+715,52785,2025-11-03,4,"Beautiful cake, everyone loved it."
+716,52787,2025-11-01,2,Waited all afternoon. Not ordering again.
+717,52790,2025-11-03,5,"Beautiful cake, everyone loved it."
+718,52793,2025-11-01,5,"Beautiful cake, everyone loved it."
+719,52795,2025-11-02,4,"Beautiful cake, everyone loved it."
+720,52800,2025-11-01,5,Best cheesecake in town.
+721,52802,2025-11-05,5,"Beautiful cake, everyone loved it."
+722,52803,2025-11-03,5,"Easy ordering, friendly driver."
+723,52804,2025-11-06,4,Perfect for the party.
+724,52808,2025-11-02,5,"Easy ordering, friendly driver."
+725,52812,2025-11-05,2,"Arrived two hours late, party had started."
+726,52813,2025-11-03,5,Delicious and arrived on time!
+727,52814,2025-11-03,3,"Fine, nothing special."
+728,52816,2025-11-06,2,Cake was dry.
+729,52818,2025-11-06,4,Perfect for the party.
+730,52822,2025-11-04,3,Decent. Icing was too sweet for me.
+731,52827,2025-11-08,5,"Easy ordering, friendly driver."
+732,52829,2025-11-06,4,Kids loved the cupcakes.
+733,52849,2025-11-07,4,"Easy ordering, friendly driver."
+734,52853,2025-11-12,3,Decent. Icing was too sweet for me.
+735,52856,2025-11-10,4,"Moist, not too sweet. Will order again."
+736,52857,2025-11-08,5,Perfect for the party.
+737,52858,2025-11-12,4,Perfect for the party.
+738,52863,2025-11-11,5,"Beautiful cake, everyone loved it."
+739,52864,2025-11-10,4,Best cheesecake in town.
+740,52867,2025-11-13,5,"Moist, not too sweet. Will order again."
+741,52868,2025-11-12,2,Cake was dry.
+742,52870,2025-11-13,5,Perfect for the party.
+743,52873,2025-11-13,3,"Fine, nothing special."
+744,52874,2025-11-11,5,"Beautiful cake, everyone loved it."
+745,52880,2025-11-12,5,"Easy ordering, friendly driver."
+746,52882,2025-11-14,5,Perfect for the party.
+747,52884,2025-11-12,5,"Easy ordering, friendly driver."
+748,52887,2025-11-15,5,"Moist, not too sweet. Will order again."
+749,52889,2025-11-13,4,"Moist, not too sweet. Will order again."
+750,52896,2025-11-15,5,"Easy ordering, friendly driver."
+751,52903,2025-11-14,5,Kids loved the cupcakes.
+752,52905,2025-11-13,2,Late delivery and no update from the driver.
+753,52908,2025-11-16,3,Cake came late and the box was crushed.
+754,52909,2025-11-15,5,"Moist, not too sweet. Will order again."
+755,52912,2025-11-14,4,Kids loved the cupcakes.
+756,52915,2025-11-15,4,Best cheesecake in town.
+757,52919,2025-11-17,5,"Moist, not too sweet. Will order again."
+758,52923,2025-11-16,4,Kids loved the cupcakes.
+759,52928,2025-11-21,5,"Moist, not too sweet. Will order again."
+760,52936,2025-11-18,5,"Easy ordering, friendly driver."
+761,52949,2025-11-21,5,"Great decoration, exactly as pictured."
+762,52959,2025-11-22,5,"Moist, not too sweet. Will order again."
+763,52960,2025-11-22,4,Perfect for the party.
+764,52962,2025-11-19,4,"Easy ordering, friendly driver."
+765,52972,2025-11-22,5,Kids loved the cupcakes.
+766,52981,2025-11-21,5,"Easy ordering, friendly driver."
+767,52983,2025-11-21,5,"Moist, not too sweet. Will order again."
+768,52994,2025-11-24,5,Kids loved the cupcakes.
+769,53002,2025-11-27,4,"Moist, not too sweet. Will order again."
+770,53005,2025-11-22,5,Kids loved the cupcakes.
+771,53010,2025-11-25,3,Cake came late and the box was crushed.
+772,53011,2025-11-22,4,Delicious and arrived on time!
+773,53017,2025-11-28,4,"Beautiful cake, everyone loved it."
+774,53020,2025-11-22,2,Wrong flavour delivered.
+775,53021,2025-11-23,5,Kids loved the cupcakes.
+776,53027,2025-11-26,4,"Beautiful cake, everyone loved it."
+777,53030,2025-11-28,5,Kids loved the cupcakes.
+778,53033,2025-11-24,5,Kids loved the cupcakes.
+779,53035,2025-11-26,5,Best cheesecake in town.
+780,53048,2025-11-26,4,Best cheesecake in town.
+781,53049,2025-11-28,5,Perfect for the party.
+782,53050,2025-11-28,4,Perfect for the party.
+783,53052,2025-11-25,5,Best cheesecake in town.
+784,53054,2025-11-27,5,Best cheesecake in town.
+785,53057,2025-11-26,4,"Moist, not too sweet. Will order again."
+786,53064,2025-11-30,4,Perfect for the party.
+787,53069,2025-11-28,5,Delicious and arrived on time!
+788,53070,2025-11-28,4,"Easy ordering, friendly driver."
+789,53077,2025-12-02,5,"Beautiful cake, everyone loved it."
+790,53080,2025-12-01,2,Waited all afternoon. Not ordering again.
+791,53081,2025-11-30,5,Best cheesecake in town.
+792,53083,2025-12-01,5,Kids loved the cupcakes.
+793,53088,2025-11-29,5,Perfect for the party.
+794,53090,2025-12-03,5,"Easy ordering, friendly driver."
+795,53092,2025-12-03,4,Kids loved the cupcakes.
+796,53098,2025-12-03,3,Late delivery and no update from the driver.
+797,53104,2025-12-01,4,Kids loved the cupcakes.
+798,53108,2025-12-02,4,Perfect for the party.
+799,53113,2025-12-02,5,"Easy ordering, friendly driver."
+800,53114,2025-12-03,5,Best cheesecake in town.
+801,53115,2025-12-06,3,"Good cake, packaging could be better."
+802,53119,2025-12-05,4,"Easy ordering, friendly driver."
+803,53123,2025-12-04,4,"Moist, not too sweet. Will order again."
+804,53124,2025-12-04,5,"Beautiful cake, everyone loved it."
+805,53128,2025-12-05,4,"Moist, not too sweet. Will order again."
+806,53129,2025-12-05,5,"Easy ordering, friendly driver."
+807,53131,2025-12-08,2,Cake came late and the box was crushed.
+808,53133,2025-12-04,5,Delicious and arrived on time!
+809,53134,2025-12-05,4,Delicious and arrived on time!
+810,53140,2025-12-04,5,Kids loved the cupcakes.
+811,53143,2025-12-04,4,"Beautiful cake, everyone loved it."
+812,53144,2025-12-08,4,"Easy ordering, friendly driver."
+813,53146,2025-12-04,5,Perfect for the party.
+814,53152,2025-12-07,5,"Easy ordering, friendly driver."
+815,53154,2025-12-06,2,Wrong flavour delivered.
+816,53159,2025-12-05,4,"Great decoration, exactly as pictured."
+817,53160,2025-12-07,4,"Beautiful cake, everyone loved it."
+818,53162,2025-12-08,2,Wrong flavour delivered.
+819,53163,2025-12-08,5,Delicious and arrived on time!
+820,53167,2025-12-07,5,"Beautiful cake, everyone loved it."
+821,53170,2025-12-07,4,"Moist, not too sweet. Will order again."
+822,53172,2025-12-05,4,Best cheesecake in town.
+823,53173,2025-12-08,4,Best cheesecake in town.
+824,53177,2025-12-06,4,"Great decoration, exactly as pictured."
+825,53186,2025-12-09,5,Delicious and arrived on time!
+826,53190,2025-12-08,5,Best cheesecake in town.
+827,53191,2025-12-10,5,Best cheesecake in town.
+828,53192,2025-12-07,2,Decoration did not match the photo.
+829,53194,2025-12-08,3,"Good cake, packaging could be better."
+830,53204,2025-12-09,4,Kids loved the cupcakes.
+831,53214,2025-12-09,4,"Great decoration, exactly as pictured."
+832,53215,2025-12-12,5,Kids loved the cupcakes.
+833,53217,2025-12-11,5,"Great decoration, exactly as pictured."
+834,53226,2025-12-10,5,Perfect for the party.
+835,53228,2025-12-10,4,Perfect for the party.
+836,53231,2025-12-09,2,Decoration did not match the photo.
+837,53237,2025-12-14,5,Kids loved the cupcakes.
+838,53241,2025-12-15,5,Best cheesecake in town.
+839,53252,2025-12-10,4,"Moist, not too sweet. Will order again."
+840,53255,2025-12-17,5,"Great decoration, exactly as pictured."
+841,53256,2025-12-12,5,Best cheesecake in town.
+842,53258,2025-12-11,3,"Fine, nothing special."
+843,53260,2025-12-15,4,Perfect for the party.
+844,53265,2025-12-15,5,Best cheesecake in town.
+845,53268,2025-12-11,3,Tasty but a bit small for the price.
+846,53270,2025-12-14,5,Best cheesecake in town.
+847,53272,2025-12-13,2,Waited all afternoon. Not ordering again.
+848,53275,2025-12-12,4,Delicious and arrived on time!
+849,53276,2025-12-13,5,"Great decoration, exactly as pictured."
+850,53282,2025-12-16,4,Delicious and arrived on time!
+851,53283,2025-12-16,5,"Great decoration, exactly as pictured."
+852,53293,2025-12-16,5,"Great decoration, exactly as pictured."
+853,53304,2025-12-14,5,Delicious and arrived on time!
+854,53305,2025-12-15,4,Delicious and arrived on time!
+855,53313,2025-12-17,5,"Moist, not too sweet. Will order again."
+856,53315,2025-12-18,5,Delicious and arrived on time!
+857,53316,2025-12-15,5,"Moist, not too sweet. Will order again."
+858,53320,2025-12-14,2,Late delivery and no update from the driver.
+859,53322,2025-12-14,4,"Beautiful cake, everyone loved it."
+860,53331,2025-12-15,5,Kids loved the cupcakes.
+861,53333,2025-12-16,5,"Great decoration, exactly as pictured."
+862,53340,2025-12-16,3,Tasty but a bit small for the price.
+863,53344,2025-12-18,5,Kids loved the cupcakes.
+864,53347,2025-12-16,4,Delicious and arrived on time!
+865,53348,2025-12-17,5,Best cheesecake in town.
+866,53352,2025-12-16,5,Kids loved the cupcakes.
+867,53353,2025-12-20,5,"Easy ordering, friendly driver."
+868,53354,2025-12-19,5,"Easy ordering, friendly driver."
+869,53355,2025-12-16,5,"Moist, not too sweet. Will order again."
+870,53356,2025-12-17,5,Kids loved the cupcakes.
+871,53359,2025-12-16,1,"Arrived two hours late, party had started."
+872,53363,2025-12-18,4,Delicious and arrived on time!
+873,53365,2025-12-20,5,Kids loved the cupcakes.
+874,53367,2025-12-21,2,Wrong flavour delivered.
+875,53369,2025-12-21,5,"Moist, not too sweet. Will order again."
+876,53372,2025-12-23,4,"Great decoration, exactly as pictured."
+877,53373,2025-12-20,4,"Beautiful cake, everyone loved it."
+878,53379,2025-12-21,4,"Great decoration, exactly as pictured."
+879,53381,2025-12-22,5,Kids loved the cupcakes.
+880,53383,2025-12-21,2,Waited all afternoon. Not ordering again.
+881,53386,2025-12-23,2,Decoration did not match the photo.
+882,53389,2025-12-23,5,"Great decoration, exactly as pictured."
+883,53393,2025-12-19,5,"Moist, not too sweet. Will order again."
+884,53394,2025-12-23,2,Wrong flavour delivered.
+885,53398,2025-12-19,2,"Delivery was very late, cake was good though."
+886,53400,2025-12-22,5,"Easy ordering, friendly driver."
+887,53401,2025-12-20,5,Perfect for the party.
+888,53403,2025-12-19,4,Kids loved the cupcakes.
+889,53405,2025-12-19,5,"Easy ordering, friendly driver."
+890,53407,2025-12-21,3,Decent. Icing was too sweet for me.
+891,53408,2025-12-21,4,"Beautiful cake, everyone loved it."
+892,53411,2025-12-22,4,Best cheesecake in town.
+893,53415,2025-12-20,4,"Great decoration, exactly as pictured."
+894,53418,2025-12-24,5,"Great decoration, exactly as pictured."
+895,53420,2025-12-21,5,Perfect for the party.
+896,53421,2025-12-20,3,Tasty but a bit small for the price.
+897,53425,2025-12-22,5,Kids loved the cupcakes.
+898,53429,2025-12-20,5,"Moist, not too sweet. Will order again."
+899,53434,2025-12-20,4,"Beautiful cake, everyone loved it."
+900,53436,2025-12-20,5,Delicious and arrived on time!
+901,53443,2025-12-24,3,Tasty but a bit small for the price.
+902,53446,2025-12-25,4,Delicious and arrived on time!
+903,53452,2025-12-23,3,Tasty but a bit small for the price.
+904,53453,2025-12-21,5,"Beautiful cake, everyone loved it."
+905,53454,2025-12-21,4,Kids loved the cupcakes.
+906,53471,2025-12-21,5,"Easy ordering, friendly driver."
+907,53473,2025-12-24,5,"Easy ordering, friendly driver."
+908,53476,2025-12-23,5,Perfect for the party.
+909,53486,2025-12-24,5,Perfect for the party.
+910,53489,2025-12-22,5,Best cheesecake in town.
+911,53492,2025-12-24,5,Perfect for the party.
+912,53498,2025-12-22,5,Best cheesecake in town.
+913,53499,2025-12-22,5,"Beautiful cake, everyone loved it."
+914,53501,2025-12-29,5,Perfect for the party.
+915,53514,2025-12-27,5,"Great decoration, exactly as pictured."
+916,53515,2025-12-27,4,"Easy ordering, friendly driver."
+917,53519,2025-12-27,5,Perfect for the party.
+918,53540,2025-12-28,5,"Great decoration, exactly as pictured."
+919,53544,2025-12-25,4,"Beautiful cake, everyone loved it."
+920,53547,2025-12-26,5,Best cheesecake in town.
+921,53549,2025-12-31,4,"Great decoration, exactly as pictured."
+922,53552,2025-12-28,3,Decent. Icing was too sweet for me.
+923,53554,2025-12-27,3,Decent. Icing was too sweet for me.
+924,53555,2025-12-28,4,Kids loved the cupcakes.
+925,53561,2025-12-30,3,Tasty but a bit small for the price.
+926,53570,2025-12-30,2,Decoration did not match the photo.
+927,53571,2025-12-30,5,"Moist, not too sweet. Will order again."
+928,53573,2025-12-28,5,"Moist, not too sweet. Will order again."
+929,53576,2025-12-30,4,Kids loved the cupcakes.
+930,53579,2025-12-29,3,Cake came late and the box was crushed.
+931,53590,2025-12-27,1,"Arrived two hours late, party had started."
+932,53596,2025-12-29,4,Delicious and arrived on time!
+933,53597,2025-12-29,3,Decent. Icing was too sweet for me.
+934,53601,2025-12-31,4,"Moist, not too sweet. Will order again."
+935,53614,2025-12-29,4,Best cheesecake in town.
+936,53615,2026-01-02,4,Kids loved the cupcakes.
+937,53620,2025-12-31,5,Best cheesecake in town.
+938,53622,2025-12-30,4,"Easy ordering, friendly driver."
+939,53626,2025-12-29,5,Best cheesecake in town.
+940,53627,2025-12-31,5,"Easy ordering, friendly driver."
+941,53632,2025-12-31,1,Late delivery and no update from the driver.
+942,53633,2026-01-01,1,"Delivery was very late, cake was good though."
+943,53636,2026-01-02,5,"Beautiful cake, everyone loved it."
+944,53639,2026-01-02,5,Delicious and arrived on time!
+945,53642,2025-12-29,5,"Beautiful cake, everyone loved it."
+946,53647,2026-01-01,2,Wrong flavour delivered.
+947,53654,2025-12-30,5,Perfect for the party.
+948,53655,2025-12-29,5,"Beautiful cake, everyone loved it."
+949,53657,2026-01-01,3,"Fine, nothing special."
+950,53663,2026-01-02,5,"Moist, not too sweet. Will order again."
+951,53664,2025-12-30,5,"Moist, not too sweet. Will order again."
+952,53667,2026-01-03,2,"Arrived two hours late, party had started."
+953,53668,2026-01-03,5,"Moist, not too sweet. Will order again."
+954,53670,2026-01-01,5,"Easy ordering, friendly driver."
+955,53673,2026-01-03,4,"Easy ordering, friendly driver."
+956,53674,2025-12-31,4,Kids loved the cupcakes.
+957,53675,2025-12-30,4,Delicious and arrived on time!
+958,53676,2025-12-31,5,"Easy ordering, friendly driver."
+959,53679,2026-01-02,5,Perfect for the party.
+960,53680,2026-01-01,5,Kids loved the cupcakes.
+961,53682,2026-01-01,3,"Good cake, packaging could be better."
+962,53683,2025-12-31,5,Perfect for the party.
+963,53685,2026-01-04,5,"Easy ordering, friendly driver."
+964,53695,2026-01-06,1,Waited all afternoon. Not ordering again.
+965,53698,2026-01-03,2,Late delivery and no update from the driver.
+966,53700,2026-01-03,5,"Moist, not too sweet. Will order again."
+967,53703,2026-01-05,5,"Beautiful cake, everyone loved it."
+968,53704,2026-01-05,3,Tasty but a bit small for the price.
+969,53709,2026-01-04,4,Perfect for the party.
+970,53713,2026-01-06,3,Decent. Icing was too sweet for me.
+971,53714,2026-01-06,2,Wrong flavour delivered.
+972,53717,2026-01-05,5,"Easy ordering, friendly driver."
+973,53720,2026-01-05,5,"Easy ordering, friendly driver."
+974,53727,2026-01-03,5,"Easy ordering, friendly driver."
+975,53728,2026-01-04,4,"Great decoration, exactly as pictured."
+976,53739,2026-01-08,3,"Fine, nothing special."
+977,53745,2026-01-08,5,Perfect for the party.
+978,53747,2026-01-07,5,"Great decoration, exactly as pictured."
+979,53753,2026-01-07,4,"Great decoration, exactly as pictured."
+980,53756,2026-01-05,4,Best cheesecake in town.
+981,53758,2026-01-09,1,"Delivery was very late, cake was good though."
+982,53759,2026-01-07,5,"Beautiful cake, everyone loved it."
+983,53762,2026-01-06,5,Perfect for the party.
+984,53767,2026-01-11,5,Perfect for the party.
+985,53771,2026-01-10,5,Perfect for the party.
+986,53774,2026-01-07,5,"Beautiful cake, everyone loved it."
+987,53776,2026-01-07,4,Best cheesecake in town.
+988,53777,2026-01-09,4,Delicious and arrived on time!
+989,53792,2026-01-10,2,Wrong flavour delivered.
+990,53794,2026-01-14,1,Waited all afternoon. Not ordering again.
+991,53799,2026-01-12,5,"Great decoration, exactly as pictured."
+992,53801,2026-01-12,5,"Great decoration, exactly as pictured."
+993,53802,2026-01-14,5,"Great decoration, exactly as pictured."
+994,53804,2026-01-14,5,Perfect for the party.
+995,53813,2026-01-15,4,"Great decoration, exactly as pictured."
+996,53814,2026-01-14,4,Perfect for the party.
+997,53819,2026-01-14,2,Wrong flavour delivered.
+998,53825,2026-01-14,5,"Great decoration, exactly as pictured."
+999,53826,2026-01-15,2,Wrong flavour delivered.
+1000,53827,2026-01-15,5,Delicious and arrived on time!
+1001,53829,2026-01-12,4,"Easy ordering, friendly driver."
+1002,53831,2026-01-14,2,Wrong flavour delivered.
+1003,53833,2026-01-18,2,Wrong flavour delivered.
+1004,53835,2026-01-17,1,Cake came late and the box was crushed.
+1005,53839,2026-01-17,3,Tasty but a bit small for the price.
+1006,53848,2026-01-19,3,Decent. Icing was too sweet for me.
+1007,53850,2026-01-16,4,"Easy ordering, friendly driver."
+1008,53858,2026-01-15,4,Delicious and arrived on time!
+1009,53861,2026-01-18,4,"Easy ordering, friendly driver."
+1010,53862,2026-01-16,5,Best cheesecake in town.
+1011,53866,2026-01-18,3,Cake came late and the box was crushed.
+1012,53878,2026-01-18,4,Delicious and arrived on time!
+1013,53879,2026-01-17,5,Delicious and arrived on time!
+1014,53880,2026-01-21,5,Delicious and arrived on time!
+1015,53881,2026-01-17,5,Kids loved the cupcakes.
+1016,53883,2026-01-21,4,Kids loved the cupcakes.
+1017,53886,2026-01-19,3,Tasty but a bit small for the price.
+1018,53893,2026-01-21,2,"Delivery was very late, cake was good though."
+1019,53896,2026-01-21,5,"Beautiful cake, everyone loved it."
+1020,53897,2026-01-21,4,"Great decoration, exactly as pictured."
+1021,53899,2026-01-20,5,Perfect for the party.
+1022,53900,2026-01-20,5,Kids loved the cupcakes.
+1023,53901,2026-01-21,5,Kids loved the cupcakes.
+1024,53903,2026-01-20,4,Kids loved the cupcakes.
+1025,53907,2026-01-20,5,Best cheesecake in town.
+1026,53914,2026-01-23,5,"Easy ordering, friendly driver."
+1027,53916,2026-01-23,5,Best cheesecake in town.
+1028,53917,2026-01-25,4,"Beautiful cake, everyone loved it."
+1029,53918,2026-01-20,2,Decoration did not match the photo.
+1030,53919,2026-01-21,4,Perfect for the party.
+1031,53924,2026-01-21,4,Delicious and arrived on time!
+1032,53927,2026-01-24,3,Decent. Icing was too sweet for me.
+1033,53933,2026-01-23,5,Perfect for the party.
+1034,53934,2026-01-23,5,"Easy ordering, friendly driver."
+1035,53938,2026-01-25,5,"Easy ordering, friendly driver."
+1036,53940,2026-01-22,2,Cake was dry.
+1037,53944,2026-01-27,1,"Delivery was very late, cake was good though."
+1038,53945,2026-01-25,4,Delicious and arrived on time!
+1039,53955,2026-01-24,1,"Delivery was very late, cake was good though."
+1040,53960,2026-01-26,5,Best cheesecake in town.
+1041,53962,2026-01-26,5,Kids loved the cupcakes.
+1042,53966,2026-01-24,5,"Great decoration, exactly as pictured."
+1043,53973,2026-01-25,3,Tasty but a bit small for the price.
+1044,53979,2026-01-25,5,"Easy ordering, friendly driver."
+1045,53984,2026-01-26,5,Delicious and arrived on time!
+1046,53989,2026-01-28,5,"Easy ordering, friendly driver."
+1047,53990,2026-01-27,5,Perfect for the party.
+1048,53999,2026-01-31,4,"Beautiful cake, everyone loved it."
+1049,54004,2026-01-29,5,"Great decoration, exactly as pictured."
+1050,54005,2026-01-31,5,Best cheesecake in town.
+1051,54014,2026-01-30,5,"Beautiful cake, everyone loved it."
+1052,54020,2026-01-30,5,Best cheesecake in town.
+1053,54023,2026-02-01,3,Decent. Icing was too sweet for me.
+1054,54025,2026-02-03,5,Perfect for the party.
+1055,54028,2026-02-03,5,"Moist, not too sweet. Will order again."
+1056,54032,2026-01-31,5,"Great decoration, exactly as pictured."
+1057,54038,2026-02-01,5,Kids loved the cupcakes.
+1058,54042,2026-02-02,4,"Beautiful cake, everyone loved it."
+1059,54044,2026-02-05,5,"Beautiful cake, everyone loved it."
+1060,54053,2026-02-02,5,"Moist, not too sweet. Will order again."
+1061,54062,2026-02-08,4,Perfect for the party.
+1062,54064,2026-02-06,5,Kids loved the cupcakes.
+1063,54065,2026-02-05,5,"Beautiful cake, everyone loved it."
+1064,54068,2026-02-06,5,"Moist, not too sweet. Will order again."
+1065,54070,2026-02-06,3,"Good cake, packaging could be better."
+1066,54072,2026-02-07,4,"Great decoration, exactly as pictured."
+1067,54073,2026-02-05,4,"Great decoration, exactly as pictured."
+1068,54080,2026-02-07,4,"Great decoration, exactly as pictured."
+1069,54082,2026-02-05,4,"Great decoration, exactly as pictured."
+1070,54083,2026-02-04,4,Perfect for the party.
+1071,54092,2026-02-08,4,Kids loved the cupcakes.
+1072,54095,2026-02-09,5,"Great decoration, exactly as pictured."
+1073,54097,2026-02-06,3,Tasty but a bit small for the price.
+1074,54099,2026-02-10,5,Kids loved the cupcakes.
+1075,54100,2026-02-06,3,"Fine, nothing special."
+1076,54111,2026-02-10,5,"Great decoration, exactly as pictured."
+1077,54113,2026-02-08,3,Decent. Icing was too sweet for me.
+1078,54119,2026-02-11,5,"Moist, not too sweet. Will order again."
+1079,54122,2026-02-09,5,"Great decoration, exactly as pictured."
+1080,54124,2026-02-12,5,Delicious and arrived on time!
+1081,54126,2026-02-09,4,Kids loved the cupcakes.
+1082,54132,2026-02-11,4,Best cheesecake in town.
+1083,54137,2026-02-09,4,Perfect for the party.
+1084,54138,2026-02-12,1,Waited all afternoon. Not ordering again.
+1085,54140,2026-02-10,3,Tasty but a bit small for the price.
+1086,54146,2026-02-11,5,Perfect for the party.
+1087,54148,2026-02-11,5,Kids loved the cupcakes.
+1088,54154,2026-02-14,4,"Great decoration, exactly as pictured."
+1089,54161,2026-02-13,5,"Great decoration, exactly as pictured."
+1090,54169,2026-02-14,4,"Easy ordering, friendly driver."
+1091,54172,2026-02-13,5,"Great decoration, exactly as pictured."
+1092,54174,2026-02-14,4,Kids loved the cupcakes.
+1093,54175,2026-02-13,1,"Delivery was very late, cake was good though."
+1094,54178,2026-02-16,1,Late delivery and no update from the driver.
+1095,54182,2026-02-12,5,"Beautiful cake, everyone loved it."
+1096,54186,2026-02-16,5,"Beautiful cake, everyone loved it."
+1097,54197,2026-02-14,4,Kids loved the cupcakes.
+1098,54206,2026-02-16,5,Perfect for the party.
+1099,54222,2026-02-13,2,Wrong flavour delivered.
+1100,54234,2026-02-18,5,Best cheesecake in town.
+1101,54237,2026-02-16,5,Kids loved the cupcakes.
+1102,54238,2026-02-14,5,Kids loved the cupcakes.
+1103,54240,2026-02-17,4,Perfect for the party.
+1104,54241,2026-02-15,4,Best cheesecake in town.
+1105,54244,2026-02-20,5,Perfect for the party.
+1106,54247,2026-02-17,5,"Moist, not too sweet. Will order again."
+1107,54250,2026-02-17,2,Decoration did not match the photo.
+1108,54254,2026-02-15,5,Delicious and arrived on time!
+1109,54260,2026-02-18,5,"Beautiful cake, everyone loved it."
+1110,54264,2026-02-15,5,"Great decoration, exactly as pictured."
+1111,54273,2026-02-17,5,"Great decoration, exactly as pictured."
+1112,54280,2026-02-16,5,"Moist, not too sweet. Will order again."
+1113,54282,2026-02-20,4,"Great decoration, exactly as pictured."
+1114,54296,2026-02-15,3,Decent. Icing was too sweet for me.
+1115,54300,2026-02-15,5,Best cheesecake in town.
+1116,54303,2026-02-19,5,"Great decoration, exactly as pictured."
+1117,54310,2026-02-20,5,Kids loved the cupcakes.
+1118,54311,2026-02-19,3,"Good cake, packaging could be better."
+1119,54317,2026-02-17,5,"Great decoration, exactly as pictured."
+1120,54318,2026-02-21,5,Perfect for the party.
+1121,54319,2026-02-19,4,Kids loved the cupcakes.
+1122,54325,2026-02-20,3,"Fine, nothing special."
+1123,54328,2026-02-19,4,Kids loved the cupcakes.
+1124,54329,2026-02-18,5,Kids loved the cupcakes.
+1125,54332,2026-02-22,4,Delicious and arrived on time!
+1126,54337,2026-02-19,5,Best cheesecake in town.
+1127,54338,2026-02-19,5,"Moist, not too sweet. Will order again."
+1128,54341,2026-02-23,5,"Beautiful cake, everyone loved it."
+1129,54344,2026-02-23,5,"Beautiful cake, everyone loved it."
+1130,54348,2026-02-23,4,"Great decoration, exactly as pictured."
+1131,54350,2026-02-23,4,"Great decoration, exactly as pictured."
+1132,54358,2026-02-22,4,Kids loved the cupcakes.
+1133,54361,2026-02-22,5,Best cheesecake in town.
+1134,54362,2026-02-23,1,Waited all afternoon. Not ordering again.
+1135,54366,2026-02-28,4,Delicious and arrived on time!
+1136,54368,2026-02-23,4,Best cheesecake in town.
+1137,54369,2026-02-28,2,Cake was dry.
+1138,54372,2026-02-22,5,"Easy ordering, friendly driver."
+1139,54373,2026-02-23,5,"Great decoration, exactly as pictured."
+1140,54381,2026-02-26,5,"Great decoration, exactly as pictured."
+1141,54383,2026-02-23,1,Waited all afternoon. Not ordering again.
+1142,54387,2026-02-26,5,Delicious and arrived on time!
+1143,54401,2026-02-24,5,Best cheesecake in town.
+1144,54408,2026-03-01,5,"Great decoration, exactly as pictured."
+1145,54409,2026-03-01,5,"Moist, not too sweet. Will order again."
+1146,54412,2026-03-01,5,Kids loved the cupcakes.
+1147,54420,2026-03-01,4,Delicious and arrived on time!
+1148,54421,2026-03-01,5,"Beautiful cake, everyone loved it."
+1149,54425,2026-03-01,5,"Great decoration, exactly as pictured."
+1150,54432,2026-02-28,5,Kids loved the cupcakes.
+1151,54433,2026-03-03,4,"Great decoration, exactly as pictured."
+1152,54437,2026-03-01,3,"Fine, nothing special."
+1153,54438,2026-03-02,5,Perfect for the party.
+1154,54443,2026-03-02,4,"Easy ordering, friendly driver."
+1155,54446,2026-03-01,5,Kids loved the cupcakes.
+1156,54448,2026-02-28,1,Waited all afternoon. Not ordering again.
+1157,54449,2026-02-28,4,"Beautiful cake, everyone loved it."
+1158,54457,2026-03-04,4,"Beautiful cake, everyone loved it."
+1159,54458,2026-03-01,2,Cake was dry.
+1160,54460,2026-03-02,5,"Beautiful cake, everyone loved it."
+1161,54466,2026-03-05,5,Delicious and arrived on time!
+1162,54474,2026-03-06,5,Delicious and arrived on time!
+1163,54475,2026-03-06,4,"Beautiful cake, everyone loved it."
+1164,54480,2026-03-03,3,Decent. Icing was too sweet for me.
+1165,54485,2026-03-03,5,Perfect for the party.
+1166,54488,2026-03-06,5,"Moist, not too sweet. Will order again."
+1167,54492,2026-03-04,5,Delicious and arrived on time!
+1168,54495,2026-03-04,5,Perfect for the party.
+1169,54497,2026-03-06,4,Best cheesecake in town.
+1170,54501,2026-03-08,4,"Easy ordering, friendly driver."
+1171,54504,2026-03-06,4,Perfect for the party.
+1172,54509,2026-03-09,5,Kids loved the cupcakes.
+1173,54512,2026-03-08,4,Best cheesecake in town.
+1174,54514,2026-03-05,5,Kids loved the cupcakes.
+1175,54519,2026-03-08,4,"Easy ordering, friendly driver."
+1176,54522,2026-03-08,5,"Beautiful cake, everyone loved it."
+1177,54530,2026-03-11,5,Best cheesecake in town.
+1178,54533,2026-03-07,5,"Moist, not too sweet. Will order again."
+1179,54540,2026-03-12,5,Delicious and arrived on time!
+1180,54545,2026-03-10,5,"Great decoration, exactly as pictured."
+1181,54554,2026-03-13,5,Delicious and arrived on time!
+1182,54556,2026-03-11,5,"Easy ordering, friendly driver."
+1183,54562,2026-03-13,5,Best cheesecake in town.
+1184,54563,2026-03-15,5,Kids loved the cupcakes.
+1185,54566,2026-03-10,2,Waited all afternoon. Not ordering again.
+1186,54573,2026-03-15,3,Tasty but a bit small for the price.
+1187,54574,2026-03-14,5,Kids loved the cupcakes.
+1188,54577,2026-03-13,5,"Easy ordering, friendly driver."
+1189,54579,2026-03-15,5,"Easy ordering, friendly driver."
+1190,54585,2026-03-12,5,Best cheesecake in town.
+1191,54587,2026-03-14,4,Kids loved the cupcakes.
+1192,54588,2026-03-15,5,"Easy ordering, friendly driver."
+1193,54594,2026-03-12,5,"Easy ordering, friendly driver."
+1194,54597,2026-03-13,4,"Beautiful cake, everyone loved it."
+1195,54614,2026-03-16,3,Decent. Icing was too sweet for me.
+1196,54615,2026-03-17,3,"Good cake, packaging could be better."
+1197,54617,2026-03-17,5,"Great decoration, exactly as pictured."
+1198,54620,2026-03-14,1,"Delivery was very late, cake was good though."
+1199,54623,2026-03-18,3,Tasty but a bit small for the price.
+1200,54624,2026-03-18,3,Decent. Icing was too sweet for me.
+1201,54629,2026-03-21,5,Perfect for the party.
+1202,54630,2026-03-18,5,Perfect for the party.
+1203,54634,2026-03-17,5,Delicious and arrived on time!
+1204,54637,2026-03-17,5,Kids loved the cupcakes.
+1205,54646,2026-03-19,5,"Beautiful cake, everyone loved it."
+1206,54654,2026-03-18,5,Best cheesecake in town.
+1207,54663,2026-03-19,4,Best cheesecake in town.
+1208,54664,2026-03-18,2,Late delivery and no update from the driver.
+1209,54665,2026-03-19,2,"Delivery was very late, cake was good though."
+1210,54667,2026-03-18,4,Kids loved the cupcakes.
+1211,54676,2026-03-23,5,Kids loved the cupcakes.
+1212,54686,2026-03-23,3,"Good cake, packaging could be better."
+1213,54689,2026-03-23,4,Delicious and arrived on time!
+1214,54690,2026-03-23,5,"Great decoration, exactly as pictured."
+1215,54696,2026-03-23,3,Decent. Icing was too sweet for me.
+1216,54698,2026-03-25,4,"Great decoration, exactly as pictured."
+1217,54699,2026-03-21,5,"Beautiful cake, everyone loved it."
+1218,54701,2026-03-23,5,Delicious and arrived on time!
+1219,54708,2026-03-24,3,"Good cake, packaging could be better."
+1220,54710,2026-03-27,5,Delicious and arrived on time!
+1221,54715,2026-03-25,3,Tasty but a bit small for the price.
+1222,54724,2026-03-23,4,"Easy ordering, friendly driver."
+1223,54726,2026-03-25,5,"Beautiful cake, everyone loved it."
+1224,54731,2026-03-28,3,Decent. Icing was too sweet for me.
+1225,54735,2026-03-26,4,"Moist, not too sweet. Will order again."
+1226,54736,2026-03-25,4,Delicious and arrived on time!
+1227,54738,2026-03-25,4,Best cheesecake in town.
+1228,54741,2026-03-27,5,Kids loved the cupcakes.
+1229,54743,2026-03-27,5,"Easy ordering, friendly driver."
+1230,54750,2026-03-27,2,Decoration did not match the photo.
+1231,54752,2026-03-29,5,"Moist, not too sweet. Will order again."
+1232,54756,2026-03-26,3,Decent. Icing was too sweet for me.
+1233,54757,2026-03-31,5,Best cheesecake in town.
+1234,54763,2026-03-29,5,Kids loved the cupcakes.
+1235,54769,2026-03-30,3,"Good cake, packaging could be better."
+1236,54771,2026-03-30,5,Best cheesecake in town.
+1237,54773,2026-04-01,5,Delicious and arrived on time!
+1238,54775,2026-04-01,5,"Beautiful cake, everyone loved it."
+1239,54783,2026-04-01,1,"Delivery was very late, cake was good though."
+1240,54787,2026-03-30,5,"Moist, not too sweet. Will order again."
+1241,54791,2026-03-29,3,Decent. Icing was too sweet for me.
+1242,54793,2026-04-02,5,Best cheesecake in town.
+1243,54795,2026-03-31,5,Kids loved the cupcakes.
+1244,54798,2026-03-29,5,Best cheesecake in town.
+1245,54801,2026-04-02,4,Perfect for the party.
+1246,54805,2026-03-31,1,"Arrived two hours late, party had started."
+1247,54806,2026-04-03,5,"Great decoration, exactly as pictured."
+1248,54809,2026-04-02,3,"Fine, nothing special."
+1249,54811,2026-04-03,2,Waited all afternoon. Not ordering again.
+1250,54812,2026-03-31,5,"Great decoration, exactly as pictured."
+1251,54813,2026-03-31,5,"Beautiful cake, everyone loved it."
+1252,54814,2026-04-01,3,"Good cake, packaging could be better."
+1253,54816,2026-03-31,4,"Beautiful cake, everyone loved it."
+1254,54818,2026-04-03,4,"Beautiful cake, everyone loved it."
+1255,54821,2026-04-02,5,"Great decoration, exactly as pictured."
+1256,54823,2026-03-31,5,"Moist, not too sweet. Will order again."
+1257,54833,2026-04-02,5,Delicious and arrived on time!
+1258,54840,2026-04-04,5,Perfect for the party.
+1259,54841,2026-04-02,3,Decent. Icing was too sweet for me.
+1260,54848,2026-04-02,5,Delicious and arrived on time!
+1261,54850,2026-04-05,3,Decent. Icing was too sweet for me.
+1262,54851,2026-04-03,3,"Good cake, packaging could be better."
+1263,54854,2026-04-04,5,"Easy ordering, friendly driver."
+1264,54873,2026-04-08,4,Kids loved the cupcakes.
+1265,54877,2026-04-05,4,"Great decoration, exactly as pictured."
+1266,54878,2026-04-08,4,"Great decoration, exactly as pictured."
+1267,54883,2026-04-05,4,"Moist, not too sweet. Will order again."
+1268,54887,2026-04-08,4,"Great decoration, exactly as pictured."
+1269,54889,2026-04-07,5,"Easy ordering, friendly driver."
+1270,54902,2026-04-10,5,"Great decoration, exactly as pictured."
+1271,54905,2026-04-06,5,Best cheesecake in town.
+1272,54916,2026-04-08,5,"Moist, not too sweet. Will order again."
+1273,54919,2026-04-08,4,"Moist, not too sweet. Will order again."
+1274,54931,2026-04-10,5,Best cheesecake in town.
+1275,54932,2026-04-11,5,Delicious and arrived on time!
+1276,54937,2026-04-10,5,Delicious and arrived on time!
+1277,54938,2026-04-13,3,Decent. Icing was too sweet for me.
+1278,54944,2026-04-13,5,"Moist, not too sweet. Will order again."
+1279,54947,2026-04-12,3,Late delivery and no update from the driver.
+1280,54952,2026-04-12,4,Kids loved the cupcakes.
+1281,54958,2026-04-11,5,"Moist, not too sweet. Will order again."
+1282,54968,2026-04-13,1,"Arrived two hours late, party had started."
+1283,54969,2026-04-16,4,Perfect for the party.
+1284,54971,2026-04-16,1,Cake came late and the box was crushed.
+1285,54973,2026-04-14,5,"Great decoration, exactly as pictured."
+1286,54974,2026-04-15,2,Cake came late and the box was crushed.
+1287,54976,2026-04-14,4,Best cheesecake in town.
+1288,54982,2026-04-16,5,Delicious and arrived on time!
+1289,54983,2026-04-17,5,Best cheesecake in town.
+1290,54984,2026-04-13,4,"Easy ordering, friendly driver."
+1291,54985,2026-04-15,2,Cake was dry.
+1292,54990,2026-04-14,5,Perfect for the party.
+1293,54996,2026-04-20,5,"Easy ordering, friendly driver."
+1294,55001,2026-04-14,5,"Moist, not too sweet. Will order again."
+1295,55002,2026-04-15,5,Kids loved the cupcakes.
+1296,55003,2026-04-19,4,"Easy ordering, friendly driver."
+1297,55007,2026-04-16,5,"Moist, not too sweet. Will order again."
+1298,55008,2026-04-16,5,"Beautiful cake, everyone loved it."
+1299,55010,2026-04-18,5,"Moist, not too sweet. Will order again."
+1300,55017,2026-04-18,5,"Beautiful cake, everyone loved it."
+1301,55018,2026-04-19,4,Perfect for the party.
+1302,55027,2026-04-17,3,Late delivery and no update from the driver.
+1303,55031,2026-04-21,5,"Moist, not too sweet. Will order again."
+1304,55036,2026-04-20,3,Tasty but a bit small for the price.
+1305,55044,2026-04-21,5,"Beautiful cake, everyone loved it."
+1306,55046,2026-04-18,5,Delicious and arrived on time!
+1307,55051,2026-04-22,5,"Beautiful cake, everyone loved it."
+1308,55053,2026-04-21,4,"Beautiful cake, everyone loved it."
+1309,55057,2026-04-23,4,Perfect for the party.
+1310,55058,2026-04-20,4,"Easy ordering, friendly driver."
+1311,55060,2026-04-22,5,"Moist, not too sweet. Will order again."
+1312,55064,2026-04-23,5,Perfect for the party.
+1313,55067,2026-04-19,5,Kids loved the cupcakes.
+1314,55076,2026-04-24,1,Waited all afternoon. Not ordering again.
+1315,55080,2026-04-21,2,Wrong flavour delivered.
+1316,55088,2026-04-25,5,"Easy ordering, friendly driver."
+1317,55092,2026-04-22,3,Tasty but a bit small for the price.
+1318,55096,2026-04-26,5,"Easy ordering, friendly driver."
+1319,55098,2026-04-24,5,"Beautiful cake, everyone loved it."
+1320,55100,2026-04-27,4,"Beautiful cake, everyone loved it."
+1321,55104,2026-04-23,5,Delicious and arrived on time!
+1322,55108,2026-04-24,5,Delicious and arrived on time!
+1323,55110,2026-04-26,3,"Good cake, packaging could be better."
+1324,55113,2026-04-27,5,"Great decoration, exactly as pictured."
+1325,55122,2026-04-25,3,"Good cake, packaging could be better."
+1326,55123,2026-04-29,5,Kids loved the cupcakes.
+1327,55126,2026-04-28,5,"Easy ordering, friendly driver."
+1328,55128,2026-04-28,4,"Moist, not too sweet. Will order again."
+1329,55130,2026-04-25,4,"Moist, not too sweet. Will order again."
+1330,55131,2026-04-27,4,Best cheesecake in town.
+1331,55146,2026-04-27,4,Perfect for the party.
+1332,55147,2026-04-29,4,Perfect for the party.
+1333,55151,2026-04-26,4,Best cheesecake in town.
+1334,55159,2026-04-28,5,"Easy ordering, friendly driver."
+1335,55160,2026-04-28,1,"Delivery was very late, cake was good though."
+1336,55163,2026-04-27,5,"Great decoration, exactly as pictured."
+1337,55166,2026-04-27,4,Delicious and arrived on time!
+1338,55167,2026-05-01,4,"Easy ordering, friendly driver."
+1339,55173,2026-04-30,3,"Delivery was very late, cake was good though."
+1340,55174,2026-04-29,3,Tasty but a bit small for the price.
+1341,55176,2026-05-01,2,"Arrived two hours late, party had started."
+1342,55185,2026-04-30,1,"Delivery was very late, cake was good though."
+1343,55186,2026-05-03,3,"Fine, nothing special."
+1344,55187,2026-05-03,5,Perfect for the party.
+1345,55192,2026-04-30,5,"Great decoration, exactly as pictured."
+1346,55199,2026-05-02,5,Kids loved the cupcakes.
+1347,55203,2026-05-03,4,"Easy ordering, friendly driver."
+1348,55205,2026-05-06,5,"Moist, not too sweet. Will order again."
+1349,55209,2026-05-02,2,Late delivery and no update from the driver.
+1350,55212,2026-05-02,5,Delicious and arrived on time!
+1351,55221,2026-05-04,3,Decent. Icing was too sweet for me.
+1352,55233,2026-05-07,4,"Easy ordering, friendly driver."
+1353,55235,2026-05-06,5,"Easy ordering, friendly driver."
+1354,55237,2026-05-03,5,Kids loved the cupcakes.
+1355,55241,2026-05-05,5,Delicious and arrived on time!
+1356,55245,2026-05-06,2,Cake was dry.
+1357,55247,2026-05-04,4,"Moist, not too sweet. Will order again."
+1358,55256,2026-05-09,3,"Fine, nothing special."
+1359,55260,2026-05-04,4,Best cheesecake in town.
+1360,55264,2026-05-07,4,Delicious and arrived on time!
+1361,55268,2026-05-07,3,"Arrived two hours late, party had started."
+1362,55269,2026-05-07,1,"Arrived two hours late, party had started."
+1363,55272,2026-05-08,5,"Beautiful cake, everyone loved it."
+1364,55273,2026-05-06,3,"Arrived two hours late, party had started."
+1365,55274,2026-05-09,5,Best cheesecake in town.
+1366,55280,2026-05-10,5,"Moist, not too sweet. Will order again."
+1367,55283,2026-05-09,4,Delicious and arrived on time!
+1368,55284,2026-05-07,1,Waited all afternoon. Not ordering again.
+1369,55286,2026-05-10,5,"Easy ordering, friendly driver."
+1370,55287,2026-05-08,4,Best cheesecake in town.
+1371,55293,2026-05-10,5,Best cheesecake in town.
+1372,55299,2026-05-09,5,"Beautiful cake, everyone loved it."
+1373,55302,2026-05-11,5,"Great decoration, exactly as pictured."
+1374,55303,2026-05-08,3,"Good cake, packaging could be better."
+1375,55305,2026-05-07,3,"Fine, nothing special."
+1376,55309,2026-05-09,5,"Great decoration, exactly as pictured."
+1377,55310,2026-05-08,2,Cake was dry.
+1378,55311,2026-05-11,5,"Great decoration, exactly as pictured."
+1379,55319,2026-05-09,4,Delicious and arrived on time!
+1380,55320,2026-05-12,5,Kids loved the cupcakes.
+1381,55329,2026-05-10,2,"Arrived two hours late, party had started."
+1382,55331,2026-05-10,5,"Great decoration, exactly as pictured."
+1383,55332,2026-05-08,5,"Moist, not too sweet. Will order again."
+1384,55335,2026-05-10,5,Perfect for the party.
+1385,55337,2026-05-10,5,"Beautiful cake, everyone loved it."
+1386,55342,2026-05-09,4,Perfect for the party.
+1387,55343,2026-05-11,5,"Moist, not too sweet. Will order again."
+1388,55344,2026-05-12,5,"Easy ordering, friendly driver."
+1389,55346,2026-05-10,4,Kids loved the cupcakes.
+1390,55347,2026-05-09,4,Kids loved the cupcakes.
+1391,55350,2026-05-13,2,Wrong flavour delivered.
+1392,55351,2026-05-09,4,"Moist, not too sweet. Will order again."
+1393,55353,2026-05-13,5,Best cheesecake in town.
+1394,55355,2026-05-09,3,Tasty but a bit small for the price.
+1395,55364,2026-05-12,5,Kids loved the cupcakes.
+1396,55368,2026-05-10,5,"Moist, not too sweet. Will order again."
+1397,55374,2026-05-13,3,"Fine, nothing special."
+1398,55377,2026-05-14,5,Kids loved the cupcakes.
+1399,55379,2026-05-11,5,"Easy ordering, friendly driver."
+1400,55380,2026-05-11,3,"Good cake, packaging could be better."
+1401,55381,2026-05-11,3,Cake came late and the box was crushed.
+1402,55385,2026-05-10,3,"Arrived two hours late, party had started."
+1403,55386,2026-05-12,5,"Beautiful cake, everyone loved it."
+1404,55397,2026-05-10,5,Delicious and arrived on time!
+1405,55400,2026-05-14,4,Perfect for the party.
+1406,55405,2026-05-10,5,"Moist, not too sweet. Will order again."
+1407,55407,2026-05-11,5,Perfect for the party.
+1408,55409,2026-05-10,4,"Beautiful cake, everyone loved it."
+1409,55411,2026-05-14,5,"Moist, not too sweet. Will order again."
+1410,55413,2026-05-11,4,"Easy ordering, friendly driver."
+1411,55414,2026-05-12,4,"Great decoration, exactly as pictured."
+1412,55418,2026-05-11,4,"Easy ordering, friendly driver."
+1413,55419,2026-05-11,4,"Great decoration, exactly as pictured."
+1414,55421,2026-05-12,1,Waited all afternoon. Not ordering again.
+1415,55422,2026-05-13,4,"Beautiful cake, everyone loved it."
+1416,55423,2026-05-15,4,Perfect for the party.
+1417,55424,2026-05-15,5,Kids loved the cupcakes.
+1418,55427,2026-05-15,5,"Great decoration, exactly as pictured."
+1419,55432,2026-05-11,5,Kids loved the cupcakes.
+1420,55437,2026-05-12,5,"Easy ordering, friendly driver."
+1421,55444,2026-05-12,1,Late delivery and no update from the driver.
+1422,55449,2026-05-16,5,Delicious and arrived on time!
+1423,55450,2026-05-12,4,"Moist, not too sweet. Will order again."
+1424,55457,2026-05-15,4,Kids loved the cupcakes.
+1425,55461,2026-05-13,3,Tasty but a bit small for the price.
+1426,55465,2026-05-14,4,Kids loved the cupcakes.
+1427,55468,2026-05-16,5,"Moist, not too sweet. Will order again."
+1428,55474,2026-05-14,1,Waited all afternoon. Not ordering again.
+1429,55479,2026-05-15,4,"Beautiful cake, everyone loved it."
+1430,55481,2026-05-18,3,"Good cake, packaging could be better."
+1431,55483,2026-05-17,4,Perfect for the party.
+1432,55486,2026-05-17,5,Best cheesecake in town.
+1433,55488,2026-05-19,4,Kids loved the cupcakes.
+1434,55490,2026-05-15,5,"Great decoration, exactly as pictured."
+1435,55495,2026-05-18,5,Best cheesecake in town.
+1436,55506,2026-05-20,4,Delicious and arrived on time!
+1437,55512,2026-05-21,4,Delicious and arrived on time!
+1438,55514,2026-05-21,4,"Beautiful cake, everyone loved it."
+1439,55515,2026-05-22,3,Tasty but a bit small for the price.
+1440,55519,2026-05-20,5,Best cheesecake in town.
+1441,55529,2026-05-20,4,"Beautiful cake, everyone loved it."
+1442,55530,2026-05-20,5,"Beautiful cake, everyone loved it."
+1443,55534,2026-05-21,3,Decent. Icing was too sweet for me.
+1444,55539,2026-05-21,5,Perfect for the party.
+1445,55543,2026-05-23,4,"Great decoration, exactly as pictured."
+1446,55546,2026-05-24,5,"Moist, not too sweet. Will order again."
+1447,55547,2026-05-22,4,"Easy ordering, friendly driver."
+1448,55550,2026-05-25,4,"Easy ordering, friendly driver."
+1449,55556,2026-05-25,5,Best cheesecake in town.
+1450,55564,2026-05-23,5,Best cheesecake in town.
+1451,55567,2026-05-23,3,"Arrived two hours late, party had started."
+1452,55571,2026-05-25,4,Best cheesecake in town.
+1453,55572,2026-05-27,1,"Arrived two hours late, party had started."
+1454,55574,2026-05-24,5,Delicious and arrived on time!
+1455,55579,2026-05-27,5,"Moist, not too sweet. Will order again."
+1456,55599,2026-05-28,5,"Great decoration, exactly as pictured."
+1457,55600,2026-05-27,4,"Beautiful cake, everyone loved it."
+1458,55612,2026-05-27,5,Kids loved the cupcakes.
+1459,55616,2026-05-30,2,"Arrived two hours late, party had started."
+1460,55617,2026-05-28,4,Kids loved the cupcakes.
+1461,55621,2026-05-26,5,"Beautiful cake, everyone loved it."
+1462,55629,2026-05-28,5,Perfect for the party.
+1463,55630,2026-05-28,2,Cake was dry.
+1464,55631,2026-05-28,5,"Easy ordering, friendly driver."
+1465,55634,2026-05-28,5,Perfect for the party.
+1466,55637,2026-05-27,5,"Great decoration, exactly as pictured."
+1467,55643,2026-05-31,5,Best cheesecake in town.
+1468,55645,2026-05-29,5,"Moist, not too sweet. Will order again."
+1469,55648,2026-06-02,5,"Easy ordering, friendly driver."
+1470,55654,2026-06-01,5,Perfect for the party.
+1471,55657,2026-06-02,4,"Easy ordering, friendly driver."
+1472,55660,2026-05-31,5,"Beautiful cake, everyone loved it."
+1473,55662,2026-06-02,5,Perfect for the party.
+1474,55663,2026-06-01,3,Decent. Icing was too sweet for me.
+1475,55667,2026-05-31,4,Delicious and arrived on time!
+1476,55668,2026-05-30,4,Best cheesecake in town.
+1477,55676,2026-06-03,4,Best cheesecake in town.
+1478,55678,2026-06-04,4,"Moist, not too sweet. Will order again."
+1479,55683,2026-05-31,1,Late delivery and no update from the driver.
+1480,55689,2026-06-04,5,Kids loved the cupcakes.
+1481,55696,2026-06-05,5,Best cheesecake in town.
+1482,55697,2026-06-03,5,Kids loved the cupcakes.
+1483,55699,2026-06-05,4,"Great decoration, exactly as pictured."
+1484,55711,2026-06-05,4,Perfect for the party.
+1485,55720,2026-06-08,5,"Great decoration, exactly as pictured."
+1486,55724,2026-06-04,5,Perfect for the party.
+1487,55726,2026-06-08,5,"Moist, not too sweet. Will order again."
+1488,55730,2026-06-05,4,Perfect for the party.
+1489,55734,2026-06-08,4,"Great decoration, exactly as pictured."
+1490,55740,2026-06-06,3,Waited all afternoon. Not ordering again.
+1491,55744,2026-06-09,5,Kids loved the cupcakes.
+1492,55745,2026-06-06,5,"Easy ordering, friendly driver."
+1493,55749,2026-06-09,5,Delicious and arrived on time!
+1494,55750,2026-06-08,2,"Delivery was very late, cake was good though."
+1495,55760,2026-06-08,4,"Moist, not too sweet. Will order again."
+1496,55766,2026-06-09,5,Best cheesecake in town.
+1497,55768,2026-06-11,4,Perfect for the party.
+1498,55773,2026-06-12,5,Perfect for the party.
+1499,55779,2026-06-08,5,"Beautiful cake, everyone loved it."
+1500,55788,2026-06-12,5,Perfect for the party.
+1501,55791,2026-06-10,5,Kids loved the cupcakes.
+1502,55792,2026-06-14,4,"Easy ordering, friendly driver."
+1503,55816,2026-06-13,5,Best cheesecake in town.
+1504,55819,2026-06-14,5,"Moist, not too sweet. Will order again."
+1505,55820,2026-06-16,5,Delicious and arrived on time!
+1506,55821,2026-06-13,5,"Easy ordering, friendly driver."
+1507,55842,2026-06-13,4,"Easy ordering, friendly driver."
+1508,55843,2026-06-16,5,Best cheesecake in town.
+1509,55846,2026-06-15,5,"Beautiful cake, everyone loved it."
+1510,55857,2026-06-15,5,"Great decoration, exactly as pictured."
+1511,55865,2026-06-18,3,Waited all afternoon. Not ordering again.
+1512,55866,2026-06-17,5,"Great decoration, exactly as pictured."
+1513,55869,2026-06-19,3,Decent. Icing was too sweet for me.
+1514,55873,2026-06-15,5,"Great decoration, exactly as pictured."
+1515,55884,2026-06-19,5,Best cheesecake in town.
+1516,55891,2026-06-18,4,Delicious and arrived on time!
+1517,55895,2026-06-19,3,Tasty but a bit small for the price.
+1518,55896,2026-06-20,5,Best cheesecake in town.
+1519,55903,2026-06-17,1,"Arrived two hours late, party had started."
+1520,55905,2026-06-19,5,"Beautiful cake, everyone loved it."
+1521,55913,2026-06-18,3,Decent. Icing was too sweet for me.
+1522,55915,2026-06-23,2,Cake was dry.
+1523,55917,2026-06-21,5,"Beautiful cake, everyone loved it."
+1524,55918,2026-06-19,3,Decent. Icing was too sweet for me.
+1525,55923,2026-06-25,5,Perfect for the party.
+1526,55926,2026-06-24,5,"Beautiful cake, everyone loved it."
+1527,55927,2026-06-20,5,"Easy ordering, friendly driver."
+1528,55935,2026-06-20,2,Wrong flavour delivered.
+1529,55938,2026-06-23,4,Delicious and arrived on time!
+1530,55944,2026-06-25,3,Decent. Icing was too sweet for me.
+1531,55945,2026-06-22,4,Perfect for the party.
+1532,55946,2026-06-23,1,Late delivery and no update from the driver.
+1533,55957,2026-06-25,5,"Great decoration, exactly as pictured."
+1534,55959,2026-06-24,5,Best cheesecake in town.
+1535,55960,2026-06-22,3,Tasty but a bit small for the price.
+1536,55969,2026-06-25,3,Decent. Icing was too sweet for me.
+1537,55971,2026-06-24,5,"Beautiful cake, everyone loved it."
+1538,55977,2026-06-26,4,Kids loved the cupcakes.
+1539,55983,2026-06-28,3,Late delivery and no update from the driver.
+1540,55990,2026-06-28,4,Kids loved the cupcakes.
+1541,55998,2026-06-29,3,"Good cake, packaging could be better."
+1542,56002,2026-06-27,4,Best cheesecake in town.
+1543,56006,2026-06-27,5,"Moist, not too sweet. Will order again."
+1544,56008,2026-06-27,5,"Beautiful cake, everyone loved it."
+1545,56013,2026-06-29,5,"Moist, not too sweet. Will order again."
+1546,56016,2026-06-29,4,"Great decoration, exactly as pictured."
+1547,56017,2026-06-29,4,Best cheesecake in town.
+1548,56023,2026-06-29,3,"Good cake, packaging could be better."
+1549,56024,2026-06-29,1,Cake came late and the box was crushed.
+1550,56026,2026-06-27,2,"Arrived two hours late, party had started."
+1551,56030,2026-06-29,4,Best cheesecake in town.
+1552,56033,2026-06-29,5,Perfect for the party.
+1553,56039,2026-07-01,1,Late delivery and no update from the driver.
+1554,56040,2026-07-02,5,Kids loved the cupcakes.
+1555,56041,2026-06-29,5,Delicious and arrived on time!
+1556,56042,2026-07-03,2,Decoration did not match the photo.
+1557,56055,2026-07-01,5,Kids loved the cupcakes.
+1558,56066,2026-07-02,5,"Easy ordering, friendly driver."
+1559,56068,2026-07-04,5,Delicious and arrived on time!
+1560,56072,2026-07-04,3,Decent. Icing was too sweet for me.
+1561,56075,2026-07-04,5,"Moist, not too sweet. Will order again."
