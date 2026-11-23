@@ -1,0 +1,13 @@
+
+
+|Type|Analytical question|Data needed|OSEMN Life stage|
+|-|-|-|-|
+|Descriptive|How did **monthly order count** change from Jan 2025 to Jun 2026 compared with the same months a year earlier, overall and by acquisition channel?|**Orders:** order\_id, order\_date, customer\_id, channel, status|Explore|
+|Descriptive|How did **monthly gross profit** and gross-margin percentage change from Jan 2025 to Jun 2026 compared with the same months a year earlier, overall and by product category?|**Orders:** order\_id, order\_date, status; **Order items**: order\_id, product\_id, quantity, selling\_price, discount; **Products**: product\_id, category; **Product costs:** product\_id, effective\_date, unit\_cost|Scrub - Explore|
+|Diagnostics |From Jan 2025 to Jun 2026, how did **marketing cost** per first-time customer and first-order gross profit compare across channels and against each channel’s prior-year period?|**Marketing spend:** date, channel, campaign\_id, spend; **Orders:** order\_id, order\_date, customer\_id, channel, status; **Order items:** order\_id, product\_id, quantity, selling\_price, discount; **Product costs:** product\_id, effective\_date, unit\_cost; **Customers:** customer\_id, created\_date|Model / Interpret / Communicate|
+|Descriptive|For customers whose first completed order was in each quarter from Q1 2024 to Q4 2025, how did the 90-day repeat-purchase rate compare with the same acquisition-quarter cohort one year earlier, overall and by channel?|Orders: order\_id, order\_date, customer\_id, channel, status; Customers: customer\_id, created\_date|Scrub → Explore|
+|Predictive|Among customers with a completed order in the last 90 days, what is the predicted probability of another order within 90 days, compared with the probability estimated for customers from the prior quarter?|Orders: order\_id, order\_date, customer\_id, status, order\_total; Order items: order\_id, product\_id, quantity; Customers: customer\_id, created\_date, postal\_code; Marketing touches: customer\_id, touch\_date, channel, campaign\_id|Model → Interpret/communicate<br />|
+|Prescriptive|For next year’s budget, which channel and retention-campaign allocations are projected to produce the highest incremental gross profit compared with keeping this year’s spend mix, under the same total budget?|Marketing spend: date, channel, campaign\_id, spend; Orders: order\_id, order\_date, customer\_id, channel, status; Order items: order\_id, product\_id, quantity, selling\_price, discount; Product costs: product\_id, effective\_date, unit\_cost; Campaign results: campaign\_id, customer\_id, exposure\_date, conversion\_date, incremental\_revenue|Model → Interpret/communicate|
+
+
+
