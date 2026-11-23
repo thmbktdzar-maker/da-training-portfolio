@@ -1,0 +1,49 @@
+Sweet Layers data catalogue
+
+Field classifications for the five cleaned CSV files. A CSV is a structured table, but a field's content can still be unstructured: `reviews.comment` is free text. Null allowance refers to whether the source data can leave the field blank. The example rows show blanks in `orders.promo_code` and `orders.delivered_at` (for example, a cancelled order).
+
+| File | Column | Structure | Level of measurement | Storage type | Nulls allowed? | PII? |
+|---|---|---|---|---|---|---|
+| `customers.csv` | `customer_id` | Structured | Nominal (identifier) | Integer | No | Quasi-identifier (linkable customer key) |
+| `customers.csv` | `first_name` | Structured | Nominal | Text | No | Yes (direct identifier) |
+| `customers.csv` | `last_name` | Structured | Nominal | Text | No | Yes (direct identifier) |
+| `customers.csv` | `email` | Structured | Nominal | Text | No | Yes (direct identifier) |
+| `customers.csv` | `phone` | Structured | Nominal | Text | No | Yes (direct identifier) |
+| `customers.csv` | `zone` | Structured | Nominal | Text | No | Quasi-identifier (especially with date or order details) |
+| `customers.csv` | `signup_date` | Structured | Interval (calendar date) | Date | No | Quasi-identifier (especially with zone) |
+| `customers.csv` | `acquisition_channel` | Structured | Nominal | Text | No | No |
+| `order_items.csv` | `order_item_id` | Structured | Nominal (identifier) | Integer | No | No |
+| `order_items.csv` | `order_id` | Structured | Nominal (identifier) | Integer | No | Quasi-identifier (links to customer and order details) |
+| `order_items.csv` | `product_id` | Structured | Nominal (identifier) | Integer | No | No |
+| `order_items.csv` | `qty` | Structured | Ratio (count; zero is meaningful) | Integer | No | No |
+| `order_items.csv` | `unit_price` | Structured | Ratio (money; zero is meaningful) | Decimal | No | No |
+| `orders.csv` | `order_id` | Structured | Nominal (identifier) | Integer | No | Quasi-identifier (links to customer and order details) |
+| `orders.csv` | `customer_id` | Structured | Nominal (identifier) | Integer | No | Quasi-identifier (linkable customer key) |
+| `orders.csv` | `order_ts` | Structured | Interval (timestamp; differences are meaningful) | Timestamp | No | Quasi-identifier (especially with zone) |
+| `orders.csv` | `channel` | Structured | Nominal | Text | No | No |
+| `orders.csv` | `fulfilment` | Structured | Nominal | Text | No | No |
+| `orders.csv` | `zone` | Structured | Nominal | Text | No | Quasi-identifier (especially with time or customer details) |
+| `orders.csv` | `promo_code` | Structured | Nominal | Text | Yes | No |
+| `orders.csv` | `discount_amount` | Structured | Ratio (money; zero is meaningful) | Decimal | No | No |
+| `orders.csv` | `delivery_fee` | Structured | Ratio (money; zero is meaningful) | Decimal | No | No |
+| `orders.csv` | `status` | Structured | Nominal | Text | No | No |
+| `orders.csv` | `promised_at` | Structured | Interval (timestamp; differences are meaningful) | Timestamp | No | Quasi-identifier (especially with zone/order details) |
+| `orders.csv` | `delivered_at` | Structured | Interval (timestamp; differences are meaningful) | Timestamp | Yes | Quasi-identifier (especially with zone/order details) |
+| `products.csv` | `product_id` | Structured | Nominal (identifier) | Integer | No | No |
+| `products.csv` | `product_name` | Structured | Nominal | Text | No | No |
+| `products.csv` | `category` | Structured | Nominal | Text | No | No |
+| `products.csv` | `list_price` | Structured | Ratio (money; zero is meaningful) | Decimal | No | No |
+| `products.csv` | `unit_cost` | Structured | Ratio (money; zero is meaningful) | Decimal | No | No |
+| `reviews.csv` | `review_id` | Structured | Nominal (identifier) | Integer | No | No |
+| `reviews.csv` | `order_id` | Structured | Nominal (identifier) | Integer | No | Quasi-identifier (links to a customer order) |
+| `reviews.csv` | `review_date` | Structured | Interval (calendar date) | Date | No | Quasi-identifier (especially with order details) |
+| `reviews.csv` | `rating` | Structured | Ordinal | Integer | No | No |
+| `reviews.csv` | `comment` | Unstructured (free text) | Nominal (qualitative text; no inherent order) | Text | No | Quasi-identifier (free text may reveal identifying details) |
+
+## Measurement notes
+
+- **Rating is ordinal.** A 5-star rating ranks above a 4-star rating, but the gaps between adjacent ratings are not guaranteed to represent equal differences in satisfaction. The median (and mode) are suitable summaries; the median preserves the rating order without assuming equal spacing. Do not interpret a mean as a precise average distance unless you explicitly accept the equal-spacing assumption.
+- **Dates and timestamps are interval.** Differences such as elapsed days or minutes are meaningful, while the calendar origin is arbitrary. Money and counts are ratio measures because zero represents none of the measured quantity.
+- Customer, order, product, review, and line-item IDs are classified as nominal: their numeric appearance does not make them quantities.
+
+**Total:** 35 columns across five CSV files. No semi-structured fields were identified.
